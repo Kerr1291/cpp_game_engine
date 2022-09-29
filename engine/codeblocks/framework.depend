@@ -1,0 +1,6191 @@
+# depslib dependency file v1.0
+1378242795 source:c:\stuff\adv\gtest1\main.cpp
+	<globals.h>
+	<Parser.h>
+	<GameInterface.h>
+	<SDL.h>
+	<Camera.h>
+	<Editor.h>
+
+1359561492 c:\stuff\adv\gl\include\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1359561492 c:\stuff\adv\gl\include\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1359561492 c:\stuff\adv\gl\include\freeglut_ext.h
+	<stdarg.h>
+
+1359561491 c:\stuff\adv\gl\glm\glm.hpp
+	"core/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cstdio>
+	"core/setup.hpp"
+	"./core/_detail.hpp"
+	"./core/_vectorize.hpp"
+	"./core/type.hpp"
+	"./core/func_trigonometric.hpp"
+	"./core/func_exponential.hpp"
+	"./core/func_common.hpp"
+	"./core/func_packing.hpp"
+	"./core/func_geometric.hpp"
+	"./core/func_matrix.hpp"
+	"./core/func_vector_relational.hpp"
+	"./core/func_integer.hpp"
+	"./core/func_noise.hpp"
+	"./core/_swizzle.hpp"
+
+1359561491 c:\stuff\adv\gl\glm\core\_fixes.hpp
+	<cmath>
+
+1359561492 c:\stuff\adv\gl\glm\core\setup.hpp
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1359561491 c:\stuff\adv\gl\glm\core\_detail.hpp
+	"setup.hpp"
+	<cassert>
+	<cstdint>
+
+1359561491 c:\stuff\adv\gl\glm\core\_vectorize.hpp
+
+1359561491 c:\stuff\adv\gl\glm\core\type.hpp
+	"type_half.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_gentype.hpp"
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat2x2.hpp"
+	"type_mat2x3.hpp"
+	"type_mat2x4.hpp"
+	"type_mat3x2.hpp"
+	"type_mat3x3.hpp"
+	"type_mat3x4.hpp"
+	"type_mat4x2.hpp"
+	"type_mat4x3.hpp"
+	"type_mat4x4.hpp"
+
+1359561491 c:\stuff\adv\gl\glm\core\type_half.hpp
+	<cstdlib>
+	"type_half.inl"
+
+1359561491 c:\stuff\adv\gl\glm\core\type_half.inl
+	"_detail.hpp"
+
+1359561492 c:\stuff\adv\gl\glm\core\type_float.hpp
+	"type_half.hpp"
+	"setup.hpp"
+
+1359561491 c:\stuff\adv\gl\glm\core\type_int.hpp
+	"setup.hpp"
+	"_detail.hpp"
+
+1359561492 c:\stuff\adv\gl\glm\core\type_gentype.hpp
+	"type_size.hpp"
+
+1359561491 c:\stuff\adv\gl\glm\core\type_size.hpp
+	<cstdlib>
+
+1359561491 c:\stuff\adv\gl\glm\core\type_vec1.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec1.inl"
+
+1359561491 c:\stuff\adv\gl\glm\core\type_vec.hpp
+	"type_gentype.hpp"
+
+1359561491 c:\stuff\adv\gl\glm\core\_swizzle.hpp
+	"_swizzle_func.hpp"
+
+1359561492 c:\stuff\adv\gl\glm\core\_swizzle_func.hpp
+
+1359561491 c:\stuff\adv\gl\glm\core\type_vec1.inl
+
+1359561491 c:\stuff\adv\gl\glm\core\type_vec2.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec2.inl"
+
+1359561491 c:\stuff\adv\gl\glm\core\type_vec2.inl
+
+1359561491 c:\stuff\adv\gl\glm\core\type_vec3.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec3.inl"
+
+1359561491 c:\stuff\adv\gl\glm\core\type_vec3.inl
+
+1359561491 c:\stuff\adv\gl\glm\core\type_vec4.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec4.inl"
+
+1359561491 c:\stuff\adv\gl\glm\core\type_vec4.inl
+
+1359561492 c:\stuff\adv\gl\glm\core\type_mat2x2.hpp
+	"type_mat.hpp"
+	"type_mat2x2.inl"
+
+1359561492 c:\stuff\adv\gl\glm\core\type_mat.hpp
+	"type_gentype.hpp"
+
+1359561492 c:\stuff\adv\gl\glm\core\type_mat2x2.inl
+
+1359561492 c:\stuff\adv\gl\glm\core\type_mat2x3.hpp
+	"type_mat.hpp"
+	"type_mat2x3.inl"
+
+1359561492 c:\stuff\adv\gl\glm\core\type_mat2x3.inl
+
+1359561492 c:\stuff\adv\gl\glm\core\type_mat2x4.hpp
+	"type_mat.hpp"
+	"type_mat2x4.inl"
+
+1359561492 c:\stuff\adv\gl\glm\core\type_mat2x4.inl
+
+1359561491 c:\stuff\adv\gl\glm\core\type_mat3x2.hpp
+	"type_mat.hpp"
+	"type_mat3x2.inl"
+
+1359561491 c:\stuff\adv\gl\glm\core\type_mat3x2.inl
+
+1359561491 c:\stuff\adv\gl\glm\core\type_mat3x3.hpp
+	"type_mat.hpp"
+	"type_mat3x3.inl"
+
+1359561491 c:\stuff\adv\gl\glm\core\type_mat3x3.inl
+
+1359561491 c:\stuff\adv\gl\glm\core\type_mat3x4.hpp
+	"type_mat.hpp"
+	"type_mat3x4.inl"
+
+1359561491 c:\stuff\adv\gl\glm\core\type_mat3x4.inl
+
+1359561492 c:\stuff\adv\gl\glm\core\type_mat4x2.hpp
+	"type_mat.hpp"
+	"type_mat4x2.inl"
+
+1359561492 c:\stuff\adv\gl\glm\core\type_mat4x2.inl
+
+1359561492 c:\stuff\adv\gl\glm\core\type_mat4x3.hpp
+	"type_mat.hpp"
+	"type_mat4x3.inl"
+
+1359561492 c:\stuff\adv\gl\glm\core\type_mat4x3.inl
+
+1359561492 c:\stuff\adv\gl\glm\core\type_mat4x4.hpp
+	"type_mat.hpp"
+	"type_mat4x4.inl"
+
+1359561492 c:\stuff\adv\gl\glm\core\type_mat4x4.inl
+
+1359561491 c:\stuff\adv\gl\glm\core\func_trigonometric.hpp
+	"func_trigonometric.inl"
+
+1359561491 c:\stuff\adv\gl\glm\core\func_trigonometric.inl
+
+1359561491 c:\stuff\adv\gl\glm\core\func_exponential.hpp
+	"func_exponential.inl"
+
+1359561491 c:\stuff\adv\gl\glm\core\func_exponential.inl
+
+1359561491 c:\stuff\adv\gl\glm\core\func_common.hpp
+	"_fixes.hpp"
+	"func_common.inl"
+
+1359561491 c:\stuff\adv\gl\glm\core\func_common.inl
+
+1359561491 c:\stuff\adv\gl\glm\core\func_packing.hpp
+	"func_packing.inl"
+
+1359561491 c:\stuff\adv\gl\glm\core\func_packing.inl
+
+1359561491 c:\stuff\adv\gl\glm\core\func_geometric.hpp
+	"func_geometric.inl"
+
+1359561492 c:\stuff\adv\gl\glm\core\func_geometric.inl
+
+1359561491 c:\stuff\adv\gl\glm\core\func_matrix.hpp
+	"func_matrix.inl"
+
+1359561491 c:\stuff\adv\gl\glm\core\func_matrix.inl
+
+1359561492 c:\stuff\adv\gl\glm\core\func_vector_relational.hpp
+	"_detail.hpp"
+	"func_vector_relational.inl"
+
+1359561492 c:\stuff\adv\gl\glm\core\func_vector_relational.inl
+
+1359561492 c:\stuff\adv\gl\glm\core\func_integer.hpp
+	"func_integer.inl"
+
+1359561491 c:\stuff\adv\gl\glm\core\func_integer.inl
+	<intrin.h>
+
+1359561491 c:\stuff\adv\gl\glm\core\func_noise.hpp
+	"func_noise.inl"
+
+1359561491 c:\stuff\adv\gl\glm\core\func_noise.inl
+
+1378241664 c:\stuff\adv\gtest1\ko\core\globals.h
+	<glew.h>
+	<freeglut.h>
+	<glfw3.h>
+	<wglew.h>
+	<glm/glm.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<Box2D/Box2D.h>
+	<AntTweakBar.h>
+	<iostream>
+	<math.h>
+	<string>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<set>
+
+1373304299 c:\stuff\adv\gtest1\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1373304299 c:\stuff\adv\gtest1\gl\wglew.h
+	<windows.h>
+
+1373304299 c:\stuff\adv\gtest1\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1373304299 c:\stuff\adv\gtest1\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1373304299 c:\stuff\adv\gtest1\gl\freeglut_ext.h
+	<stdarg.h>
+
+1373304299 c:\stuff\adv\gtest1\gl\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1373304291 c:\stuff\adv\gtest1\\glm\glm.hpp
+	"core/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cstdio>
+	"core/setup.hpp"
+	"./core/_detail.hpp"
+	"./core/_vectorize.hpp"
+	"./core/type.hpp"
+	"./core/func_trigonometric.hpp"
+	"./core/func_exponential.hpp"
+	"./core/func_common.hpp"
+	"./core/func_packing.hpp"
+	"./core/func_geometric.hpp"
+	"./core/func_matrix.hpp"
+	"./core/func_vector_relational.hpp"
+	"./core/func_integer.hpp"
+	"./core/func_noise.hpp"
+	"./core/_swizzle.hpp"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\_fixes.hpp
+	<cmath>
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\setup.hpp
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\_detail.hpp
+	"setup.hpp"
+	<cassert>
+	<cstdint>
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\_vectorize.hpp
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type.hpp
+	"type_half.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_gentype.hpp"
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat2x2.hpp"
+	"type_mat2x3.hpp"
+	"type_mat2x4.hpp"
+	"type_mat3x2.hpp"
+	"type_mat3x3.hpp"
+	"type_mat3x4.hpp"
+	"type_mat4x2.hpp"
+	"type_mat4x3.hpp"
+	"type_mat4x4.hpp"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_half.hpp
+	<cstdlib>
+	"type_half.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_half.inl
+	"_detail.hpp"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_float.hpp
+	"type_half.hpp"
+	"setup.hpp"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_int.hpp
+	"setup.hpp"
+	"_detail.hpp"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_gentype.hpp
+	"type_size.hpp"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_size.hpp
+	<cstdlib>
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_vec1.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec1.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_vec.hpp
+	"type_gentype.hpp"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\_swizzle.hpp
+	"_swizzle_func.hpp"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\_swizzle_func.hpp
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_vec1.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_vec2.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec2.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_vec2.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_vec3.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec3.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_vec3.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_vec4.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec4.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_vec4.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_mat2x2.hpp
+	"type_mat.hpp"
+	"type_mat2x2.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_mat.hpp
+	"type_gentype.hpp"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_mat2x2.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_mat2x3.hpp
+	"type_mat.hpp"
+	"type_mat2x3.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_mat2x3.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_mat2x4.hpp
+	"type_mat.hpp"
+	"type_mat2x4.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_mat2x4.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_mat3x2.hpp
+	"type_mat.hpp"
+	"type_mat3x2.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_mat3x2.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_mat3x3.hpp
+	"type_mat.hpp"
+	"type_mat3x3.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_mat3x3.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_mat3x4.hpp
+	"type_mat.hpp"
+	"type_mat3x4.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_mat3x4.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_mat4x2.hpp
+	"type_mat.hpp"
+	"type_mat4x2.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_mat4x2.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_mat4x3.hpp
+	"type_mat.hpp"
+	"type_mat4x3.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_mat4x3.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_mat4x4.hpp
+	"type_mat.hpp"
+	"type_mat4x4.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\type_mat4x4.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\func_trigonometric.hpp
+	"func_trigonometric.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\func_trigonometric.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\func_exponential.hpp
+	"func_exponential.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\func_exponential.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\func_common.hpp
+	"_fixes.hpp"
+	"func_common.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\func_common.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\func_packing.hpp
+	"func_packing.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\func_packing.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\func_geometric.hpp
+	"func_geometric.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\func_geometric.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\func_matrix.hpp
+	"func_matrix.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\func_matrix.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\func_vector_relational.hpp
+	"_detail.hpp"
+	"func_vector_relational.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\func_vector_relational.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\func_integer.hpp
+	"func_integer.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\func_integer.inl
+	<intrin.h>
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\func_noise.hpp
+	"func_noise.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\core\func_noise.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\gtc\type_ptr.hpp
+	"../glm.hpp"
+	"../gtc/half_float.hpp"
+	"../gtc/quaternion.hpp"
+	<cstring>
+	"type_ptr.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\gtc\half_float.hpp
+	"../glm.hpp"
+	"half_float.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\gtc\half_float.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\gtc\quaternion.hpp
+	"../glm.hpp"
+	"../gtc/half_float.hpp"
+	"quaternion.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\gtc\quaternion.inl
+	<limits>
+
+1373304291 c:\stuff\adv\gtest1\\glm\gtc\type_ptr.inl
+
+1373304291 c:\stuff\adv\gtest1\\glm\gtc\matrix_transform.hpp
+	"../glm.hpp"
+	"matrix_transform.inl"
+
+1373304291 c:\stuff\adv\gtest1\\glm\gtc\matrix_transform.inl
+
+1373304304 c:\stuff\adv\gtest1\\box2d\box2d.h
+	<Box2D/Common/b2Settings.h>
+	<Box2D/Common/b2Draw.h>
+	<Box2D/Common/b2Timer.h>
+	<Box2D/Collision/Shapes/b2CircleShape.h>
+	<Box2D/Collision/Shapes/b2EdgeShape.h>
+	<Box2D/Collision/Shapes/b2ChainShape.h>
+	<Box2D/Collision/Shapes/b2PolygonShape.h>
+	<Box2D/Collision/b2BroadPhase.h>
+	<Box2D/Collision/b2Distance.h>
+	<Box2D/Collision/b2DynamicTree.h>
+	<Box2D/Collision/b2TimeOfImpact.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2Fixture.h>
+	<Box2D/Dynamics/b2WorldCallbacks.h>
+	<Box2D/Dynamics/b2TimeStep.h>
+	<Box2D/Dynamics/b2World.h>
+	<Box2D/Dynamics/Contacts/b2Contact.h>
+	<Box2D/Dynamics/Joints/b2DistanceJoint.h>
+	<Box2D/Dynamics/Joints/b2FrictionJoint.h>
+	<Box2D/Dynamics/Joints/b2GearJoint.h>
+	<Box2D/Dynamics/Joints/b2WheelJoint.h>
+	<Box2D/Dynamics/Joints/b2MouseJoint.h>
+	<Box2D/Dynamics/Joints/b2PrismaticJoint.h>
+	<Box2D/Dynamics/Joints/b2PulleyJoint.h>
+	<Box2D/Dynamics/Joints/b2RevoluteJoint.h>
+	<Box2D/Dynamics/Joints/b2RopeJoint.h>
+	<Box2D/Dynamics/Joints/b2WeldJoint.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\common\b2settings.h
+	<cassert>
+	<cmath>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\common\b2draw.h
+	<Box2D/Common/b2Math.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\common\b2math.h
+	<Box2D/Common/b2Settings.h>
+	<cmath>
+	<cfloat>
+	<cstddef>
+	<limits>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\common\b2timer.h
+	<Box2D/Common/b2Settings.h>
+
+1373304306 c:\stuff\adv\gtest1\\box2d\collision\shapes\b2circleshape.h
+	<Box2D/Collision/Shapes/b2Shape.h>
+
+1373304306 c:\stuff\adv\gtest1\\box2d\collision\shapes\b2shape.h
+	<Box2D/Common/b2BlockAllocator.h>
+	<Box2D/Common/b2Math.h>
+	<Box2D/Collision/b2Collision.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\common\b2blockallocator.h
+	<Box2D/Common/b2Settings.h>
+
+1373304306 c:\stuff\adv\gtest1\\box2d\collision\b2collision.h
+	<Box2D/Common/b2Math.h>
+	<climits>
+
+1373304306 c:\stuff\adv\gtest1\\box2d\collision\shapes\b2edgeshape.h
+	<Box2D/Collision/Shapes/b2Shape.h>
+
+1373304306 c:\stuff\adv\gtest1\\box2d\collision\shapes\b2chainshape.h
+	<Box2D/Collision/Shapes/b2Shape.h>
+
+1373304306 c:\stuff\adv\gtest1\\box2d\collision\shapes\b2polygonshape.h
+	<Box2D/Collision/Shapes/b2Shape.h>
+
+1373304306 c:\stuff\adv\gtest1\\box2d\collision\b2broadphase.h
+	<Box2D/Common/b2Settings.h>
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Collision/b2DynamicTree.h>
+	<algorithm>
+
+1373304306 c:\stuff\adv\gtest1\\box2d\collision\b2dynamictree.h
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Common/b2GrowableStack.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\common\b2growablestack.h
+	<Box2D/Common/b2Settings.h>
+	<cstring>
+
+1373304306 c:\stuff\adv\gtest1\\box2d\collision\b2distance.h
+	<Box2D/Common/b2Math.h>
+
+1373304306 c:\stuff\adv\gtest1\\box2d\collision\b2timeofimpact.h
+	<Box2D/Common/b2Math.h>
+	<Box2D/Collision/b2Distance.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\dynamics\b2body.h
+	<Box2D/Common/b2Math.h>
+	<Box2D/Collision/Shapes/b2Shape.h>
+	<memory>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\dynamics\b2fixture.h
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Collision/Shapes/b2Shape.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\dynamics\b2worldcallbacks.h
+	<Box2D/Common/b2Settings.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\dynamics\b2timestep.h
+	<Box2D/Common/b2Math.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\dynamics\b2world.h
+	<Box2D/Common/b2Math.h>
+	<Box2D/Common/b2BlockAllocator.h>
+	<Box2D/Common/b2StackAllocator.h>
+	<Box2D/Dynamics/b2ContactManager.h>
+	<Box2D/Dynamics/b2WorldCallbacks.h>
+	<Box2D/Dynamics/b2TimeStep.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\common\b2stackallocator.h
+	<Box2D/Common/b2Settings.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\dynamics\b2contactmanager.h
+	<Box2D/Collision/b2BroadPhase.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\dynamics\contacts\b2contact.h
+	<Box2D/Common/b2Math.h>
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Collision/Shapes/b2Shape.h>
+	<Box2D/Dynamics/b2Fixture.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\dynamics\joints\b2distancejoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\dynamics\joints\b2joint.h
+	<Box2D/Common/b2Math.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\dynamics\joints\b2frictionjoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\dynamics\joints\b2gearjoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\dynamics\joints\b2wheeljoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\dynamics\joints\b2mousejoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\dynamics\joints\b2prismaticjoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\dynamics\joints\b2pulleyjoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\dynamics\joints\b2revolutejoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\dynamics\joints\b2ropejoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1373304305 c:\stuff\adv\gtest1\\box2d\dynamics\joints\b2weldjoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1375475609 c:\stuff\adv\gtest1\ko\systems\misc\parser.h
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<map>
+
+1378241150 c:\stuff\adv\gtest1\ko\core\gameinterface.h
+	<globals.h>
+	<Physics.h>
+	<RenderManager.h>
+	<ObjectManager.h>
+	<PlayerInterface.h>
+	<HUDManager.h>
+	<audio.h>
+	<MainMenu.h>
+	<list>
+
+1378241149 c:\stuff\adv\gtest1\ko\systems\physics\physics.h
+	<globals.h>
+	<DebugDraw.h>
+	<tweakbar.h>
+	<vector>
+	<map>
+
+1378241150 c:\stuff\adv\gtest1\ko\systems\misc\debugdraw.h
+	<Box2D/Box2D.h>
+
+1378241149 c:\stuff\adv\gtest1\ko\systems\graphics\rendermanager.h
+	<globals.h>
+
+1373304304 c:\stuff\adv\gtest1\ko\systems\objectmanager\objectmanager.h
+	<globals.h>
+
+1378319614 c:\stuff\adv\gtest1\ko\systems\interface\playerinterface.h
+	<globals.h>
+	<map>
+
+1373304304 c:\stuff\adv\gtest1\ko\systems\gui\hudmanager.h
+	<globals.h>
+	<string>
+	<map>
+
+1374265810 c:\stuff\adv\gtest1\ko\systems\gui\mainmenu.h
+	<globals.h>
+	<MenuButton.h>
+	<list>
+
+1378241150 c:\stuff\adv\gtest1\ko\systems\gui\menubutton.h
+	<globals.h>
+	<string>
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_platform.h
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_config_dreamcast.h
+	"SDL_platform.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_config_macos.h
+	"SDL_platform.h"
+	<MacTypes.h>
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_config_symbian.h
+	"SDL_platform.h"
+	<stdarg.h>
+	<stddef.h>
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_config_os2.h
+	"SDL_platform.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_config_minimal.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\begin_code.h
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\close_code.h
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_keysym.h
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1373304292 c:\stuff\adv\gtest1\sdl\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1378241149 c:\stuff\adv\gtest1\ko\systems\graphics\camera.h
+	<globals.h>
+
+1378321082 source:c:\stuff\adv\gtest1\areas\area_beta.cpp
+	<Area_Beta.h>
+	<GameInterface.h>
+	<PlayerInterface.h>
+	<PhysicsObject.h>
+	<RenderObject.h>
+	<Sprite.h>
+	<Rock.h>
+	<Human.h>
+	<Camera.h>
+	<GridInfo.h>
+	<LoadGameObject.h>
+	<SetLoadingScreen.h>
+	<ImportAreaData.h>
+	<MenuButton.h>
+
+1376945363 c:\stuff\adv\gtest1\areas\area_beta.h
+	<Area.h>
+	<BasicHUD.h>
+
+1378241150 c:\stuff\adv\gtest1\ko\systems\levels\area.h
+	<globals.h>
+	<ObjectManager.h>
+	<Physics.h>
+
+1374265976 c:\stuff\adv\gtest1\ko\systems\gui\basichud.h
+	<HUD.h>
+
+1373304304 c:\stuff\adv\gtest1\ko\systems\gui\hud.h
+	<globals.h>
+	<HUDObject.h>
+
+1378241150 c:\stuff\adv\gtest1\ko\systems\gui\hudobject.h
+	<globals.h>
+
+1373304297 c:\stuff\adv\gtest1\gameobjects\rock.h
+	<BaseObject.h>
+
+1376945364 c:\stuff\adv\gtest1\ko\components\baseobject.h
+	<globals.h>
+	<Transform.h>
+	<ObjectProperties.h>
+
+1378241148 c:\stuff\adv\gtest1\ko\components\transform.h
+	<globals.h>
+
+1373304304 c:\stuff\adv\gtest1\ko\components\objectproperties.h
+	<globals.h>
+
+1373304304 c:\stuff\adv\gtest1\ko\commands\loadgameobject.h
+	<Command.h>
+	<Area.h>
+	<BaseObject.h>
+
+1373304303 c:\stuff\adv\gtest1\ko\basetypes\command.h
+	<globals.h>
+
+1374265571 c:\stuff\adv\gtest1\ko\commands\setloadingscreen.h
+	<Command.h>
+
+1375806436 source:c:\stuff\adv\gtest1\areas\area_planet_a.cpp
+	<Area_Planet_A.h>
+	<GameInterface.h>
+	<Camera.h>
+	<PlayerInterface.h>
+	<AreaLoader.h>
+	<LoadGameObject.h>
+	<SetLoadingScreen.h>
+	<ImportAreaData.h>
+	<Human.h>
+	<GroundTileA.h>
+
+1374265650 c:\stuff\adv\gtest1\areas\area_planet_a.h
+	<Area.h>
+
+1375806437 c:\stuff\adv\gtest1\ko\systems\levels\arealoader.h
+	<globals.h>
+
+1373304304 c:\stuff\adv\gtest1\ko\commands\importareadata.h
+	<Command.h>
+	<AreaLoader.h>
+
+1373304297 c:\stuff\adv\gtest1\gameobjects\human.h
+	<BaseObject.h>
+
+1373304297 c:\stuff\adv\gtest1\gameobjects\groundtilea.h
+	<BaseObject.h>
+
+1378241145 source:c:\stuff\adv\gtest1\gameobjects\groundtilea.cpp
+	<GroundTileA.h>
+	<RenderObject.h>
+	<GraphicData.h>
+	<RenderManager.h>
+	<ObjectManager.h>
+
+1376326152 c:\stuff\adv\gtest1\ko\components\renderobject.h
+	<globals.h>
+
+1373304304 c:\stuff\adv\gtest1\ko\components\graphicdata.h
+	<globals.h>
+
+1374275214 source:c:\stuff\adv\gtest1\gameobjects\human.cpp
+	<Human.h>
+	<RenderObject.h>
+	<GraphicData.h>
+	<RenderManager.h>
+	<PhysicsObject.h>
+	<Physics.h>
+
+1378241148 c:\stuff\adv\gtest1\ko\components\physicsobject.h
+	<globals.h>
+
+1378241145 source:c:\stuff\adv\gtest1\gameobjects\planeta.cpp
+	<PlanetA.h>
+	<RenderObject.h>
+	<GraphicData.h>
+	<RenderManager.h>
+	<PhysicsObject.h>
+	<Physics.h>
+	<ObjectManager.h>
+
+1373304297 c:\stuff\adv\gtest1\gameobjects\planeta.h
+	<BaseObject.h>
+
+1378318393 source:c:\stuff\adv\gtest1\gameobjects\rock.cpp
+	<Rock.h>
+	<RenderObject.h>
+	<GraphicData.h>
+	<RenderManager.h>
+	<PhysicsObject.h>
+	<Physics.h>
+	<ObjectManager.h>
+	<Sprite.h>
+	<GridInfo.h>
+
+1378241145 source:c:\stuff\adv\gtest1\gameobjects\rock_static.cpp
+	<Rock_Static.h>
+	<RenderObject.h>
+	<GraphicData.h>
+	<RenderManager.h>
+	<PhysicsObject.h>
+	<Physics.h>
+	<ObjectManager.h>
+
+1373304297 c:\stuff\adv\gtest1\gameobjects\rock_static.h
+	<BaseObject.h>
+
+1373304291 source:c:\stuff\adv\gtest1\glm\core\dummy.cpp
+	"../glm.hpp"
+
+1373304291 c:\stuff\adv\gtest1\glm\glm.hpp
+	"core/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cstdio>
+	"core/setup.hpp"
+	"./core/_detail.hpp"
+	"./core/_vectorize.hpp"
+	"./core/type.hpp"
+	"./core/func_trigonometric.hpp"
+	"./core/func_exponential.hpp"
+	"./core/func_common.hpp"
+	"./core/func_packing.hpp"
+	"./core/func_geometric.hpp"
+	"./core/func_matrix.hpp"
+	"./core/func_vector_relational.hpp"
+	"./core/func_integer.hpp"
+	"./core/func_noise.hpp"
+	"./core/_swizzle.hpp"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\_fixes.hpp
+	<cmath>
+
+1373304291 c:\stuff\adv\gtest1\glm\core\setup.hpp
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1373304291 c:\stuff\adv\gtest1\glm\core\_detail.hpp
+	"setup.hpp"
+	<cassert>
+	<cstdint>
+
+1373304291 c:\stuff\adv\gtest1\glm\core\_vectorize.hpp
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type.hpp
+	"type_half.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_gentype.hpp"
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat2x2.hpp"
+	"type_mat2x3.hpp"
+	"type_mat2x4.hpp"
+	"type_mat3x2.hpp"
+	"type_mat3x3.hpp"
+	"type_mat3x4.hpp"
+	"type_mat4x2.hpp"
+	"type_mat4x3.hpp"
+	"type_mat4x4.hpp"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_half.hpp
+	<cstdlib>
+	"type_half.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_half.inl
+	"_detail.hpp"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_float.hpp
+	"type_half.hpp"
+	"setup.hpp"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_int.hpp
+	"setup.hpp"
+	"_detail.hpp"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_gentype.hpp
+	"type_size.hpp"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_size.hpp
+	<cstdlib>
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_vec1.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec1.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_vec.hpp
+	"type_gentype.hpp"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\_swizzle.hpp
+	"_swizzle_func.hpp"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\_swizzle_func.hpp
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_vec1.inl
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_vec2.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec2.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_vec2.inl
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_vec3.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec3.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_vec3.inl
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_vec4.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec4.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_vec4.inl
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_mat2x2.hpp
+	"type_mat.hpp"
+	"type_mat2x2.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_mat.hpp
+	"type_gentype.hpp"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_mat2x2.inl
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_mat2x3.hpp
+	"type_mat.hpp"
+	"type_mat2x3.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_mat2x3.inl
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_mat2x4.hpp
+	"type_mat.hpp"
+	"type_mat2x4.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_mat2x4.inl
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_mat3x2.hpp
+	"type_mat.hpp"
+	"type_mat3x2.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_mat3x2.inl
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_mat3x3.hpp
+	"type_mat.hpp"
+	"type_mat3x3.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_mat3x3.inl
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_mat3x4.hpp
+	"type_mat.hpp"
+	"type_mat3x4.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_mat3x4.inl
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_mat4x2.hpp
+	"type_mat.hpp"
+	"type_mat4x2.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_mat4x2.inl
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_mat4x3.hpp
+	"type_mat.hpp"
+	"type_mat4x3.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_mat4x3.inl
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_mat4x4.hpp
+	"type_mat.hpp"
+	"type_mat4x4.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\type_mat4x4.inl
+
+1373304291 c:\stuff\adv\gtest1\glm\core\func_trigonometric.hpp
+	"func_trigonometric.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\func_trigonometric.inl
+
+1373304291 c:\stuff\adv\gtest1\glm\core\func_exponential.hpp
+	"func_exponential.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\func_exponential.inl
+
+1373304291 c:\stuff\adv\gtest1\glm\core\func_common.hpp
+	"_fixes.hpp"
+	"func_common.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\func_common.inl
+
+1373304291 c:\stuff\adv\gtest1\glm\core\func_packing.hpp
+	"func_packing.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\func_packing.inl
+
+1373304291 c:\stuff\adv\gtest1\glm\core\func_geometric.hpp
+	"func_geometric.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\func_geometric.inl
+
+1373304291 c:\stuff\adv\gtest1\glm\core\func_matrix.hpp
+	"func_matrix.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\func_matrix.inl
+
+1373304291 c:\stuff\adv\gtest1\glm\core\func_vector_relational.hpp
+	"_detail.hpp"
+	"func_vector_relational.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\func_vector_relational.inl
+
+1373304291 c:\stuff\adv\gtest1\glm\core\func_integer.hpp
+	"func_integer.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\func_integer.inl
+	<intrin.h>
+
+1373304291 c:\stuff\adv\gtest1\glm\core\func_noise.hpp
+	"func_noise.inl"
+
+1373304291 c:\stuff\adv\gtest1\glm\core\func_noise.inl
+
+1373304303 source:c:\stuff\adv\gtest1\ko\basetypes\command.cpp
+	<Command.h>
+
+1374266107 source:c:\stuff\adv\gtest1\ko\commands\changearea.cpp
+	<ChangeArea.h>
+	<GameInterface.h>
+	<Area.h>
+	<Camera.h>
+
+1374266025 c:\stuff\adv\gtest1\ko\commands\changearea.h
+	<Command.h>
+
+1374266125 source:c:\stuff\adv\gtest1\ko\commands\entermenu.cpp
+	<EnterMenu.h>
+	<GameInterface.h>
+
+1374266033 c:\stuff\adv\gtest1\ko\commands\entermenu.h
+	<Command.h>
+
+1374266138 source:c:\stuff\adv\gtest1\ko\commands\exitmenu.cpp
+	<ExitMenu.h>
+	<GameInterface.h>
+
+1374266039 c:\stuff\adv\gtest1\ko\commands\exitmenu.h
+	<Command.h>
+
+1373561495 source:c:\stuff\adv\gtest1\ko\commands\importareadata.cpp
+	<ImportAreaData.h>
+	<Area.h>
+
+1373304304 source:c:\stuff\adv\gtest1\ko\commands\loadgameobject.cpp
+	<LoadGameObject.h>
+
+1374265691 source:c:\stuff\adv\gtest1\ko\commands\setloadingscreen.cpp
+	<SetLoadingScreen.h>
+	<GameInterface.h>
+
+1374266159 source:c:\stuff\adv\gtest1\ko\commands\unloadarea.cpp
+	<UnloadArea.h>
+	<GameInterface.h>
+	<Camera.h>
+
+1374266081 c:\stuff\adv\gtest1\ko\commands\unloadarea.h
+	<Command.h>
+
+1374275334 source:c:\stuff\adv\gtest1\ko\components\baseobject.cpp
+	<BaseObject.h>
+	<PhysicsObject.h>
+	<RenderObject.h>
+
+1373304304 source:c:\stuff\adv\gtest1\ko\components\graphicdata.cpp
+	<GraphicData.h>
+	<RenderManager.h>
+
+1373304304 source:c:\stuff\adv\gtest1\ko\components\objectproperties.cpp
+	<ObjectProperties.h>
+
+1378241148 source:c:\stuff\adv\gtest1\ko\components\physicsobject.cpp
+	<PhysicsObject.h>
+	<Transform.h>
+	<GraphicData.h>
+	<Physics.h>
+
+1376326156 source:c:\stuff\adv\gtest1\ko\components\renderobject.cpp
+	<RenderObject.h>
+	<memory.h>
+	<GraphicData.h>
+
+1378242755 source:c:\stuff\adv\gtest1\ko\core\gameinterface.cpp
+	<GameInterface.h>
+	<Parser.h>
+	<Camera.h>
+	<Area.h>
+	<Command.h>
+	<GridInfo.h>
+	<Area_Beta.h>
+	<LoadArea.h>
+	<UnloadArea.h>
+	<EnterMenu.h>
+	<BasicHUD.h>
+
+1374265760 c:\stuff\adv\gtest1\ko\commands\loadarea.h
+	<Command.h>
+	<GameInterface.h>
+	<Area.h>
+
+1378241905 source:c:\stuff\adv\gtest1\ko\core\globals.cpp
+	<globals.h>
+	<Physics.h>
+	<GameInterface.h>
+	<ObjectManager.h>
+	<RenderManager.h>
+	<PlayerInterface.h>
+	<Audio.h>
+	<Editor.h>
+	<Camera.h>
+	<cstdio>
+	<cstdarg>
+	<cstring>
+	<stddef.h>
+
+1378241149 source:c:\stuff\adv\gtest1\ko\systems\graphics\camera.cpp
+	<Camera.h>
+	<globals.h>
+	<BaseObject.h>
+
+1378242144 source:c:\stuff\adv\gtest1\ko\systems\graphics\rendermanager.cpp
+	<RenderManager.h>
+	<Parser.h>
+	<SDL.h>
+	<memory.h>
+	<fstream>
+	<GraphicData.h>
+	<Transform.h>
+	<RenderObject.h>
+	<Camera.h>
+	<AreaLoader.h>
+	<GameInterface.h>
+	<GridInfo.h>
+	<Sprite.h>
+	<stdio.h>
+	<stb_image.c>
+
+1378241150 source:c:\stuff\adv\gtest1\ko\systems\gui\basichud.cpp
+	<BasicHUD.h>
+	<GameInterface.h>
+	<Camera.h>
+
+1373304304 source:c:\stuff\adv\gtest1\ko\systems\gui\hud.cpp
+	<HUD.h>
+
+1373304304 source:c:\stuff\adv\gtest1\ko\systems\gui\hudmanager.cpp
+	<HUDManager.h>
+	<HUD.h>
+
+1378241150 source:c:\stuff\adv\gtest1\ko\systems\gui\hudobject.cpp
+	<HUDObject.h>
+	<GameInterface.h>
+	<RenderManager.h>
+	<Command.h>
+
+1378241150 source:c:\stuff\adv\gtest1\ko\systems\gui\mainmenu.cpp
+	<MainMenu.h>
+	<GameInterface.h>
+	<LoadArea.h>
+	<Area_Beta.h>
+	<DoNothing.h>
+	<Area_Planet_A.h>
+
+1373304304 c:\stuff\adv\gtest1\ko\commands\donothing.h
+	<Command.h>
+
+1378241150 source:c:\stuff\adv\gtest1\ko\systems\gui\menubutton.cpp
+	<MenuButton.h>
+	<GameInterface.h>
+	<RenderManager.h>
+	<Command.h>
+
+1376945364 source:c:\stuff\adv\gtest1\ko\systems\interface\playercommands.cpp
+	<PlayerCommands.h>
+
+1376945364 c:\stuff\adv\gtest1\ko\systems\interface\playercommands.h
+	<globals.h>
+	<PlayerInterface.h>
+
+1378320323 source:c:\stuff\adv\gtest1\ko\systems\interface\playerinterface.cpp
+	<PlayerInterface.h>
+	<GameInterface.h>
+	<BaseObject.h>
+	<Camera.h>
+	<PhysicsObject.h>
+	<RenderObject.h>
+	<Sprite.h>
+	<PlayerCommands.h>
+	<LoadGameObject.h>
+	<Rock.h>
+
+1376945364 source:c:\stuff\adv\gtest1\ko\systems\levels\area.cpp
+	<Area.h>
+	<GameInterface.h>
+	<BaseObject.h>
+
+1375806437 source:c:\stuff\adv\gtest1\ko\systems\levels\arealoader.cpp
+	<AreaLoader.h>
+	<Area.h>
+	<BaseObject.h>
+	<SDL.h>
+	<memory.h>
+
+1378241947 source:c:\stuff\adv\gtest1\ko\systems\misc\debugdraw.cpp
+	<DebugDraw.h>
+	<cstdio>
+	<cstdarg>
+	<cstring>
+	<globals.h>
+	<GameInterface.h>
+	<Camera.h>
+
+1373304304 source:c:\stuff\adv\gtest1\ko\systems\misc\parser.cpp
+	<Parser.h>
+	<iostream>
+
+1376326222 source:c:\stuff\adv\gtest1\ko\systems\objectmanager\objectmanager.cpp
+	<ObjectManager.h>
+	<RenderManager.h>
+	<BaseObject.h>
+	<Area.h>
+
+1378242223 source:c:\stuff\adv\gtest1\ko\systems\physics\physics.cpp
+	<Physics.h>
+	<GameInterface.h>
+	<BaseObject.h>
+	<GridInfo.h>
+	<fstream>
+
+1267519956 c:\stuff\adv\gtest1\\box2d\dynamics\joints\b2linejoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1375464668 c:\stuff\adv\gtest1\ko\systems\graphics\stb_image.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1375464668 source:c:\stuff\adv\gtest1\ko\systems\graphics\stb_image.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1378241150 c:\stuff\adv\gtest1\ko\systems\levels\gridinfo.h
+	<globals.h>
+
+1378241150 source:c:\stuff\adv\gtest1\ko\systems\levels\gridinfo.cpp
+	<GridInfo.h>
+	<RenderManager.h>
+	<Physics.h>
+
+1378320041 c:\stuff\adv\gtest1\\sprite.h
+	<globals.h>
+
+1378320060 source:c:\stuff\adv\gtest1\sprite.cpp
+	<Sprite.h>
+	<RenderManager.h>
+	<Parser.h>
+
+1363825746 c:\stuff\adv\gtest1\tweakbar\anttweakbar.h
+	<stddef.h>
+	<string>
+	<string>
+
+1378241142 c:\stuff\adv\gtest1\\tweakbar.h
+	<globals.h>
+
+1378241146 c:\stuff\adv\gtest1\\audio.h
+	<globals.h>
+	<tweakbar.h>
+
+1378243653 source:c:\stuff\adv\gtest1\audio.cpp
+	<audio.h>
+	<SFML/Audio.hpp>
+	<GameInterface.h>
+	<Parser.h>
+
+1367997278 c:\stuff\adv\gtest1\\sfml\audio.hpp
+	<SFML/System.hpp>
+	<SFML/Audio/Listener.hpp>
+	<SFML/Audio/Music.hpp>
+	<SFML/Audio/Sound.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundBufferRecorder.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<SFML/Audio/SoundStream.hpp>
+
+1367997281 c:\stuff\adv\gtest1\\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1374390132 c:\stuff\adv\gtest1\\sfml\config.hpp
+
+1367997281 c:\stuff\adv\gtest1\\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1367997281 c:\stuff\adv\gtest1\\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1367997281 c:\stuff\adv\gtest1\\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1367997281 c:\stuff\adv\gtest1\\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1368099372 c:\stuff\adv\gtest1\\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+
+1367997281 c:\stuff\adv\gtest1\\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1367997281 c:\stuff\adv\gtest1\\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1367997281 c:\stuff\adv\gtest1\\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1367997281 c:\stuff\adv\gtest1\\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1367997281 c:\stuff\adv\gtest1\\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<locale>
+	<string>
+
+1367997281 c:\stuff\adv\gtest1\\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1367997281 c:\stuff\adv\gtest1\\sfml\system\thread.inl
+
+1367997281 c:\stuff\adv\gtest1\\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1367997281 c:\stuff\adv\gtest1\\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1367997281 c:\stuff\adv\gtest1\\sfml\system\threadlocalptr.inl
+
+1367997281 c:\stuff\adv\gtest1\\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1372053422 c:\stuff\adv\gtest1\\sfml\system\utf.inl
+
+1367997281 c:\stuff\adv\gtest1\\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1367997281 c:\stuff\adv\gtest1\\sfml\system\vector2.inl
+
+1367997281 c:\stuff\adv\gtest1\\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1367997281 c:\stuff\adv\gtest1\\sfml\system\vector3.inl
+
+1367997278 c:\stuff\adv\gtest1\\sfml\audio\listener.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Vector3.hpp>
+
+1367997278 c:\stuff\adv\gtest1\\sfml\audio\export.hpp
+	<SFML/Config.hpp>
+
+1367997278 c:\stuff\adv\gtest1\\sfml\audio\music.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+
+1367997278 c:\stuff\adv\gtest1\\sfml\audio\soundstream.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Time.hpp>
+	<cstdlib>
+
+1367997278 c:\stuff\adv\gtest1\\sfml\audio\soundsource.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Vector3.hpp>
+
+1367997278 c:\stuff\adv\gtest1\\sfml\audio\sound.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Time.hpp>
+	<cstdlib>
+
+1367997278 c:\stuff\adv\gtest1\\sfml\audio\soundbuffer.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+	<set>
+
+1367997278 c:\stuff\adv\gtest1\\sfml\audio\soundbufferrecorder.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<vector>
+
+1367997278 c:\stuff\adv\gtest1\\sfml\audio\soundrecorder.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Thread.hpp>
+	<vector>
+
+1378242048 source:c:\stuff\adv\gtest1\editor.cpp
+	<Editor.h>
+	<GameInterface.h>
+	<Physics.h>
+	<Camera.h>
+	<BaseObject.h>
+	<Transform.h>
+	<PhysicsObject.h>
+	<Area.h>
+	<GridInfo.h>
+
+1378241145 c:\stuff\adv\gtest1\\editor.h
+	<globals.h>
+	<tweakbar.h>
+
+1378241145 source:c:\stuff\adv\gtest1\tweakbar.cpp
+	<tweakbar.h>
+
+1381423506 source:c:\stuff\adv\openge\engine\engine_codeblocks\areas\area_beta.cpp
+	<Area_Beta.h>
+	<GameInterface.h>
+	<PlayerInterface.h>
+	<PhysicsObject.h>
+	<RenderObject.h>
+	<Sprite.h>
+	<Rock.h>
+	<Camera.h>
+	<GridInfo.h>
+	<LoadGameObject.h>
+	<SetLoadingScreen.h>
+	<ImportAreaData.h>
+	<MenuButton.h>
+
+1381423506 c:\stuff\adv\openge\engine\engine_codeblocks\areas\area_beta.h
+	<Area.h>
+	<BasicHUD.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\levels\area.h
+	<globals.h>
+	<ObjectManager.h>
+	<Physics.h>
+
+1381429138 c:\stuff\adv\openge\engine\engine_codeblocks\ko\core\globals.h
+	<glew.h>
+	<freeglut.h>
+	<glfw3.h>
+	<wglew.h>
+	<glm/glm.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<Box2D/Box2D.h>
+	<AntTweakBar.h>
+	<iostream>
+	<math.h>
+	<string>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<set>
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\gl\freeglut_ext.h
+	<stdarg.h>
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\gl\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\gl\wglew.h
+	<windows.h>
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\glm.hpp
+	"core/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cstdio>
+	"core/setup.hpp"
+	"./core/_detail.hpp"
+	"./core/_vectorize.hpp"
+	"./core/type.hpp"
+	"./core/func_trigonometric.hpp"
+	"./core/func_exponential.hpp"
+	"./core/func_common.hpp"
+	"./core/func_packing.hpp"
+	"./core/func_geometric.hpp"
+	"./core/func_matrix.hpp"
+	"./core/func_vector_relational.hpp"
+	"./core/func_integer.hpp"
+	"./core/func_noise.hpp"
+	"./core/_swizzle.hpp"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\_fixes.hpp
+	<cmath>
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\setup.hpp
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\_detail.hpp
+	"setup.hpp"
+	<cassert>
+	<cstdint>
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\_vectorize.hpp
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type.hpp
+	"type_half.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_gentype.hpp"
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat2x2.hpp"
+	"type_mat2x3.hpp"
+	"type_mat2x4.hpp"
+	"type_mat3x2.hpp"
+	"type_mat3x3.hpp"
+	"type_mat3x4.hpp"
+	"type_mat4x2.hpp"
+	"type_mat4x3.hpp"
+	"type_mat4x4.hpp"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_half.hpp
+	<cstdlib>
+	"type_half.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_half.inl
+	"_detail.hpp"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_float.hpp
+	"type_half.hpp"
+	"setup.hpp"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_int.hpp
+	"setup.hpp"
+	"_detail.hpp"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_gentype.hpp
+	"type_size.hpp"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_size.hpp
+	<cstdlib>
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_vec1.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec1.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_vec.hpp
+	"type_gentype.hpp"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\_swizzle.hpp
+	"_swizzle_func.hpp"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\_swizzle_func.hpp
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_vec1.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_vec2.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec2.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_vec2.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_vec3.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec3.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_vec3.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_vec4.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec4.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_vec4.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_mat2x2.hpp
+	"type_mat.hpp"
+	"type_mat2x2.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_mat.hpp
+	"type_gentype.hpp"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_mat2x2.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_mat2x3.hpp
+	"type_mat.hpp"
+	"type_mat2x3.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_mat2x3.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_mat2x4.hpp
+	"type_mat.hpp"
+	"type_mat2x4.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_mat2x4.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_mat3x2.hpp
+	"type_mat.hpp"
+	"type_mat3x2.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_mat3x2.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_mat3x3.hpp
+	"type_mat.hpp"
+	"type_mat3x3.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_mat3x3.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_mat3x4.hpp
+	"type_mat.hpp"
+	"type_mat3x4.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_mat3x4.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_mat4x2.hpp
+	"type_mat.hpp"
+	"type_mat4x2.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_mat4x2.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_mat4x3.hpp
+	"type_mat.hpp"
+	"type_mat4x3.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_mat4x3.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_mat4x4.hpp
+	"type_mat.hpp"
+	"type_mat4x4.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\type_mat4x4.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\func_trigonometric.hpp
+	"func_trigonometric.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\func_trigonometric.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\func_exponential.hpp
+	"func_exponential.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\func_exponential.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\func_common.hpp
+	"_fixes.hpp"
+	"func_common.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\func_common.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\func_packing.hpp
+	"func_packing.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\func_packing.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\func_geometric.hpp
+	"func_geometric.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\func_geometric.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\func_matrix.hpp
+	"func_matrix.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\func_matrix.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\func_vector_relational.hpp
+	"_detail.hpp"
+	"func_vector_relational.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\func_vector_relational.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\func_integer.hpp
+	"func_integer.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\func_integer.inl
+	<intrin.h>
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\func_noise.hpp
+	"func_noise.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\core\func_noise.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\gtc\type_ptr.hpp
+	"../glm.hpp"
+	"../gtc/half_float.hpp"
+	"../gtc/quaternion.hpp"
+	<cstring>
+	"type_ptr.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\gtc\half_float.hpp
+	"../glm.hpp"
+	"half_float.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\gtc\half_float.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\gtc\quaternion.hpp
+	"../glm.hpp"
+	"../gtc/half_float.hpp"
+	"quaternion.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\gtc\quaternion.inl
+	<limits>
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\gtc\type_ptr.inl
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\gtc\matrix_transform.hpp
+	"../glm.hpp"
+	"matrix_transform.inl"
+
+1381423508 c:\stuff\adv\openge\engine\engine_codeblocks\\glm\gtc\matrix_transform.inl
+
+1381423522 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\box2d.h
+	<Box2D/Common/b2Settings.h>
+	<Box2D/Common/b2Draw.h>
+	<Box2D/Common/b2Timer.h>
+	<Box2D/Collision/Shapes/b2CircleShape.h>
+	<Box2D/Collision/Shapes/b2EdgeShape.h>
+	<Box2D/Collision/Shapes/b2ChainShape.h>
+	<Box2D/Collision/Shapes/b2PolygonShape.h>
+	<Box2D/Collision/b2BroadPhase.h>
+	<Box2D/Collision/b2Distance.h>
+	<Box2D/Collision/b2DynamicTree.h>
+	<Box2D/Collision/b2TimeOfImpact.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2Fixture.h>
+	<Box2D/Dynamics/b2WorldCallbacks.h>
+	<Box2D/Dynamics/b2TimeStep.h>
+	<Box2D/Dynamics/b2World.h>
+	<Box2D/Dynamics/Contacts/b2Contact.h>
+	<Box2D/Dynamics/Joints/b2DistanceJoint.h>
+	<Box2D/Dynamics/Joints/b2FrictionJoint.h>
+	<Box2D/Dynamics/Joints/b2GearJoint.h>
+	<Box2D/Dynamics/Joints/b2WheelJoint.h>
+	<Box2D/Dynamics/Joints/b2MouseJoint.h>
+	<Box2D/Dynamics/Joints/b2PrismaticJoint.h>
+	<Box2D/Dynamics/Joints/b2PulleyJoint.h>
+	<Box2D/Dynamics/Joints/b2RevoluteJoint.h>
+	<Box2D/Dynamics/Joints/b2RopeJoint.h>
+	<Box2D/Dynamics/Joints/b2WeldJoint.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\common\b2settings.h
+	<cassert>
+	<cmath>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\common\b2draw.h
+	<Box2D/Common/b2Math.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\common\b2math.h
+	<Box2D/Common/b2Settings.h>
+	<cmath>
+	<cfloat>
+	<cstddef>
+	<limits>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\common\b2timer.h
+	<Box2D/Common/b2Settings.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\collision\shapes\b2circleshape.h
+	<Box2D/Collision/Shapes/b2Shape.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\collision\shapes\b2shape.h
+	<Box2D/Common/b2BlockAllocator.h>
+	<Box2D/Common/b2Math.h>
+	<Box2D/Collision/b2Collision.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\common\b2blockallocator.h
+	<Box2D/Common/b2Settings.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\collision\b2collision.h
+	<Box2D/Common/b2Math.h>
+	<climits>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\collision\shapes\b2edgeshape.h
+	<Box2D/Collision/Shapes/b2Shape.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\collision\shapes\b2chainshape.h
+	<Box2D/Collision/Shapes/b2Shape.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\collision\shapes\b2polygonshape.h
+	<Box2D/Collision/Shapes/b2Shape.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\collision\b2broadphase.h
+	<Box2D/Common/b2Settings.h>
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Collision/b2DynamicTree.h>
+	<algorithm>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\collision\b2dynamictree.h
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Common/b2GrowableStack.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\common\b2growablestack.h
+	<Box2D/Common/b2Settings.h>
+	<cstring>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\collision\b2distance.h
+	<Box2D/Common/b2Math.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\collision\b2timeofimpact.h
+	<Box2D/Common/b2Math.h>
+	<Box2D/Collision/b2Distance.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\dynamics\b2body.h
+	<Box2D/Common/b2Math.h>
+	<Box2D/Collision/Shapes/b2Shape.h>
+	<memory>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\dynamics\b2fixture.h
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Collision/Shapes/b2Shape.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\dynamics\b2worldcallbacks.h
+	<Box2D/Common/b2Settings.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\dynamics\b2timestep.h
+	<Box2D/Common/b2Math.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\dynamics\b2world.h
+	<Box2D/Common/b2Math.h>
+	<Box2D/Common/b2BlockAllocator.h>
+	<Box2D/Common/b2StackAllocator.h>
+	<Box2D/Dynamics/b2ContactManager.h>
+	<Box2D/Dynamics/b2WorldCallbacks.h>
+	<Box2D/Dynamics/b2TimeStep.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\common\b2stackallocator.h
+	<Box2D/Common/b2Settings.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\dynamics\b2contactmanager.h
+	<Box2D/Collision/b2BroadPhase.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\dynamics\contacts\b2contact.h
+	<Box2D/Common/b2Math.h>
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Collision/Shapes/b2Shape.h>
+	<Box2D/Dynamics/b2Fixture.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\dynamics\joints\b2distancejoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\dynamics\joints\b2joint.h
+	<Box2D/Common/b2Math.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\dynamics\joints\b2frictionjoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\dynamics\joints\b2gearjoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\dynamics\joints\b2wheeljoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\dynamics\joints\b2mousejoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\dynamics\joints\b2prismaticjoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\dynamics\joints\b2pulleyjoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\dynamics\joints\b2revolutejoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\dynamics\joints\b2ropejoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381423524 c:\stuff\adv\openge\engine\engine_codeblocks\\box2d\dynamics\joints\b2weldjoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381423520 c:\stuff\adv\openge\engine\engine_codeblocks\tweakbar\anttweakbar.h
+	<stddef.h>
+	<string>
+	<string>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\objectmanager\objectmanager.h
+	<globals.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\physics\physics.h
+	<globals.h>
+	<DebugDraw.h>
+	<tweakbar.h>
+	<vector>
+	<map>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\misc\debugdraw.h
+	<Box2D/Box2D.h>
+
+1381423490 c:\stuff\adv\openge\engine\engine_codeblocks\\tweakbar.h
+	<globals.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\gui\basichud.h
+	<HUD.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\gui\hud.h
+	<globals.h>
+	<HUDObject.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\gui\hudobject.h
+	<globals.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\core\gameinterface.h
+	<globals.h>
+	<Physics.h>
+	<RenderManager.h>
+	<ObjectManager.h>
+	<PlayerInterface.h>
+	<HUDManager.h>
+	<audio.h>
+	<MainMenu.h>
+	<list>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\graphics\rendermanager.h
+	<globals.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\interface\playerinterface.h
+	<globals.h>
+	<map>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\gui\hudmanager.h
+	<globals.h>
+	<string>
+	<map>
+
+1381423519 c:\stuff\adv\openge\engine\engine_codeblocks\\audio.h
+	<globals.h>
+	<tweakbar.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\gui\mainmenu.h
+	<globals.h>
+	<MenuButton.h>
+	<list>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\gui\menubutton.h
+	<globals.h>
+	<string>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\components\physicsobject.h
+	<globals.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\components\renderobject.h
+	<globals.h>
+	<tweakbar.h>
+
+1381423506 c:\stuff\adv\openge\engine\engine_codeblocks\\sprite.h
+	<globals.h>
+	<tweakbar.h>
+
+1381423502 c:\stuff\adv\openge\engine\engine_codeblocks\gameobjects\rock.h
+	<BaseObject.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\components\baseobject.h
+	<globals.h>
+	<Transform.h>
+	<ObjectProperties.h>
+	<tweakbar.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\components\transform.h
+	<globals.h>
+	<tweakbar.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\components\objectproperties.h
+	<globals.h>
+	<tweakbar.h>
+
+1381423517 c:\stuff\adv\openge\engine\engine_codeblocks\gameobjects\human.h
+	<BaseObject.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\graphics\camera.h
+	<globals.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\levels\gridinfo.h
+	<globals.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\commands\loadgameobject.h
+	<Command.h>
+	<Area.h>
+	<BaseObject.h>
+
+1381423506 c:\stuff\adv\openge\engine\engine_codeblocks\ko\basetypes\command.h
+	<globals.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\commands\setloadingscreen.h
+	<Command.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\commands\importareadata.h
+	<Command.h>
+	<AreaLoader.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\levels\arealoader.h
+	<globals.h>
+
+1381423520 source:c:\stuff\adv\openge\engine\engine_codeblocks\areas\area_planet_a.cpp
+	<Area_Planet_A.h>
+	<GameInterface.h>
+	<Camera.h>
+	<PlayerInterface.h>
+	<AreaLoader.h>
+	<LoadGameObject.h>
+	<SetLoadingScreen.h>
+	<ImportAreaData.h>
+	<Human.h>
+	<GroundTileA.h>
+
+1381423520 c:\stuff\adv\openge\engine\engine_codeblocks\areas\area_planet_a.h
+	<Area.h>
+
+1381423517 c:\stuff\adv\openge\engine\engine_codeblocks\gameobjects\groundtilea.h
+	<BaseObject.h>
+
+1381429562 source:c:\stuff\adv\openge\engine\engine_codeblocks\audio.cpp
+	<audio.h>
+	<SFML/Audio.hpp>
+	<GameInterface.h>
+	<Parser.h>
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\audio.hpp
+	<SFML/System.hpp>
+	<SFML/Audio/Listener.hpp>
+	<SFML/Audio/Music.hpp>
+	<SFML/Audio/Sound.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundBufferRecorder.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<SFML/Audio/SoundStream.hpp>
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\config.hpp
+
+1381423520 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1381423520 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1381423520 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<locale>
+	<string>
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1381423520 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system\thread.inl
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1381423520 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system\threadlocalptr.inl
+
+1381423520 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1381423520 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system\utf.inl
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system\vector2.inl
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1381423521 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\system\vector3.inl
+
+1381423520 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\audio\listener.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Vector3.hpp>
+
+1381423520 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\audio\export.hpp
+	<SFML/Config.hpp>
+
+1381423520 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\audio\music.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+
+1381423520 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\audio\soundstream.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Time.hpp>
+	<cstdlib>
+
+1381423520 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\audio\soundsource.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Vector3.hpp>
+
+1381423520 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\audio\sound.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Time.hpp>
+	<cstdlib>
+
+1381423520 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\audio\soundbuffer.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+	<set>
+
+1381423520 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\audio\soundbufferrecorder.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<vector>
+
+1381423520 c:\stuff\adv\openge\engine\engine_codeblocks\\sfml\audio\soundrecorder.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Thread.hpp>
+	<vector>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\misc\parser.h
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<map>
+
+1381423506 source:c:\stuff\adv\openge\engine\engine_codeblocks\editor.cpp
+	<Editor.h>
+	<GameInterface.h>
+	<Physics.h>
+	<Camera.h>
+	<BaseObject.h>
+	<Transform.h>
+	<PhysicsObject.h>
+	<Area.h>
+	<GridInfo.h>
+	<Light.h>
+	<LoadArea.h>
+
+1381423496 c:\stuff\adv\openge\engine\engine_codeblocks\\editor.h
+	<globals.h>
+	<tweakbar.h>
+
+1381423506 c:\stuff\adv\openge\engine\engine_codeblocks\\light.h
+	<globals.h>
+
+1381423517 source:c:\stuff\adv\openge\engine\engine_codeblocks\gameobjects\groundtilea.cpp
+	<GroundTileA.h>
+	<RenderObject.h>
+	<GraphicData.h>
+	<RenderManager.h>
+	<ObjectManager.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\components\graphicdata.h
+	<globals.h>
+
+1381423517 source:c:\stuff\adv\openge\engine\engine_codeblocks\gameobjects\human.cpp
+	<Human.h>
+	<RenderObject.h>
+	<GraphicData.h>
+	<RenderManager.h>
+	<PhysicsObject.h>
+	<Physics.h>
+
+1381423517 source:c:\stuff\adv\openge\engine\engine_codeblocks\gameobjects\planeta.cpp
+	<PlanetA.h>
+	<RenderObject.h>
+	<GraphicData.h>
+	<RenderManager.h>
+	<PhysicsObject.h>
+	<Physics.h>
+	<ObjectManager.h>
+
+1381423517 c:\stuff\adv\openge\engine\engine_codeblocks\gameobjects\planeta.h
+	<BaseObject.h>
+
+1381423502 source:c:\stuff\adv\openge\engine\engine_codeblocks\gameobjects\rock.cpp
+	<Rock.h>
+	<RenderObject.h>
+	<GraphicData.h>
+	<RenderManager.h>
+	<PhysicsObject.h>
+	<Physics.h>
+	<ObjectManager.h>
+	<Sprite.h>
+	<GridInfo.h>
+
+1381423517 source:c:\stuff\adv\openge\engine\engine_codeblocks\gameobjects\rock_static.cpp
+	<Rock_Static.h>
+	<RenderObject.h>
+	<GraphicData.h>
+	<RenderManager.h>
+	<PhysicsObject.h>
+	<Physics.h>
+	<ObjectManager.h>
+
+1381423517 c:\stuff\adv\openge\engine\engine_codeblocks\gameobjects\rock_static.h
+	<BaseObject.h>
+
+1381423506 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\basetypes\command.cpp
+	<Command.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\commands\changearea.cpp
+	<ChangeArea.h>
+	<GameInterface.h>
+	<Area.h>
+	<Camera.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\commands\changearea.h
+	<Command.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\commands\entermenu.cpp
+	<EnterMenu.h>
+	<GameInterface.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\commands\entermenu.h
+	<Command.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\commands\exitmenu.cpp
+	<ExitMenu.h>
+	<GameInterface.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\commands\exitmenu.h
+	<Command.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\commands\importareadata.cpp
+	<ImportAreaData.h>
+	<Area.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\commands\loadgameobject.cpp
+	<LoadGameObject.h>
+	<RenderManager.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\commands\setloadingscreen.cpp
+	<SetLoadingScreen.h>
+	<GameInterface.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\commands\unloadarea.cpp
+	<UnloadArea.h>
+	<GameInterface.h>
+	<Camera.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\commands\unloadarea.h
+	<Command.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\components\baseobject.cpp
+	<BaseObject.h>
+	<PlayerInterface.h>
+	<PhysicsObject.h>
+	<RenderObject.h>
+	<sstream>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\components\graphicdata.cpp
+	<GraphicData.h>
+	<RenderManager.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\components\objectproperties.cpp
+	<ObjectProperties.h>
+	<Editor.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\components\physicsobject.cpp
+	<PhysicsObject.h>
+	<BaseObject.h>
+	<Transform.h>
+	<Physics.h>
+	<GraphicData.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\components\renderobject.cpp
+	<RenderObject.h>
+	<memory.h>
+	<GraphicData.h>
+	<Sprite.h>
+	<RenderManager.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\core\gameinterface.cpp
+	<GameInterface.h>
+	<Parser.h>
+	<Camera.h>
+	<Area.h>
+	<Command.h>
+	<GridInfo.h>
+	<Area_Beta.h>
+	<LoadArea.h>
+	<UnloadArea.h>
+	<EnterMenu.h>
+	<BasicHUD.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\commands\loadarea.h
+	<Command.h>
+	<GameInterface.h>
+	<Area.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\core\globals.cpp
+	<globals.h>
+	<Physics.h>
+	<GameInterface.h>
+	<ObjectManager.h>
+	<RenderManager.h>
+	<PlayerInterface.h>
+	<Audio.h>
+	<Editor.h>
+	<Camera.h>
+	<cstdio>
+	<cstdarg>
+	<cstring>
+	<stddef.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\graphics\camera.cpp
+	<Camera.h>
+	<globals.h>
+	<BaseObject.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\graphics\rendermanager.cpp
+	<RenderManager.h>
+	<BaseObject.h>
+	<Light.h>
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_platform.h
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_config_dreamcast.h
+	"SDL_platform.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_config_macos.h
+	"SDL_platform.h"
+	<MacTypes.h>
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_config_symbian.h
+	"SDL_platform.h"
+	<stdarg.h>
+	<stddef.h>
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_config_os2.h
+	"SDL_platform.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_config_minimal.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\begin_code.h
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\close_code.h
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_keysym.h
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423515 c:\stuff\adv\openge\engine\engine_codeblocks\sdl\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\graphics\stb_image.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\gui\basichud.cpp
+	<BasicHUD.h>
+	<GameInterface.h>
+	<Camera.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\gui\hud.cpp
+	<HUD.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\gui\hudmanager.cpp
+	<HUDManager.h>
+	<HUD.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\gui\hudobject.cpp
+	<HUDObject.h>
+	<GameInterface.h>
+	<RenderManager.h>
+	<Command.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\gui\mainmenu.cpp
+	<MainMenu.h>
+	<GameInterface.h>
+	<LoadArea.h>
+	<Area_Beta.h>
+	<DoNothing.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\commands\donothing.h
+	<Command.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\gui\menubutton.cpp
+	<MenuButton.h>
+	<GameInterface.h>
+	<RenderManager.h>
+	<Command.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\interface\playercommands.cpp
+	<PlayerCommands.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\interface\playercommands.h
+	<globals.h>
+	<PlayerInterface.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\interface\playerinterface.cpp
+	<PlayerInterface.h>
+	<GameInterface.h>
+	<BaseObject.h>
+	<Camera.h>
+	<PhysicsObject.h>
+	<RenderObject.h>
+	<Sprite.h>
+	<PlayerCommands.h>
+	<LoadGameObject.h>
+	<Rock.h>
+	<states.h>
+
+1381423490 c:\stuff\adv\openge\engine\engine_codeblocks\\states.h
+	<iostream>
+	<vector>
+	<stdlib.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\levels\area.cpp
+	<Area.h>
+	<GameInterface.h>
+	<BaseObject.h>
+	<GridInfo.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\levels\arealoader.cpp
+	<AreaLoader.h>
+	<Area.h>
+	<BaseObject.h>
+	<SDL.h>
+	<memory.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\levels\gridinfo.cpp
+	<GridInfo.h>
+	<RenderManager.h>
+	<Physics.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\misc\debugdraw.cpp
+	<DebugDraw.h>
+	<cstdio>
+	<cstdarg>
+	<cstring>
+	<globals.h>
+	<GameInterface.h>
+	<Camera.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\misc\parser.cpp
+	<Parser.h>
+	<iostream>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\objectmanager\objectmanager.cpp
+	<ObjectManager.h>
+	<RenderManager.h>
+	<BaseObject.h>
+	<Area.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\physics\physics.cpp
+	<Physics.h>
+	<GameInterface.h>
+	<BaseObject.h>
+	<GridInfo.h>
+	<Area.h>
+	<fstream>
+
+1381423496 source:c:\stuff\adv\openge\engine\engine_codeblocks\main.cpp
+	<globals.h>
+	<Parser.h>
+	<GameInterface.h>
+	<SDL.h>
+	<Camera.h>
+	<Editor.h>
+
+1381423490 source:c:\stuff\adv\openge\engine\engine_codeblocks\sprite.cpp
+	<Sprite.h>
+	<RenderManager.h>
+	<Parser.h>
+
+1381423496 source:c:\stuff\adv\openge\engine\engine_codeblocks\tweakbar.cpp
+	<tweakbar.h>
+	<Transform.h>
+
+1381423502 source:c:\stuff\adv\openge\engine\engine_codeblocks\states.cpp
+	<states.h>
+
+1381423504 source:c:\stuff\adv\openge\engine\engine_codeblocks\editor_helpers.cpp
+	<Editor.h>
+
+1381423490 source:c:\stuff\adv\openge\engine\engine_codeblocks\editor_lights.cpp
+	<Editor.h>
+	<GameInterface.h>
+	<Area.h>
+	<GridInfo.h>
+	<Light.h>
+	<Camera.h>
+
+1381423496 source:c:\stuff\adv\openge\engine\engine_codeblocks\editor_objects.cpp
+	<Editor.h>
+	<GameInterface.h>
+	<Physics.h>
+	<Camera.h>
+	<BaseObject.h>
+	<Transform.h>
+	<PhysicsObject.h>
+	<Area.h>
+	<GridInfo.h>
+	<LoadGameObject.h>
+	<CustomObject.h>
+
+1381423502 c:\stuff\adv\openge\engine\engine_codeblocks\gameobjects\customobject.h
+	<BaseObject.h>
+
+1381423567 source:c:\stuff\adv\openge\engine\engine_codeblocks\editor_physics.cpp
+	<Editor.h>
+	<GameInterface.h>
+	<Physics.h>
+	<BaseObject.h>
+	<Transform.h>
+	<PhysicsObject.h>
+	<Area.h>
+	<GridInfo.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\editor_selection.cpp
+	<Editor.h>
+	<GameInterface.h>
+	<Physics.h>
+	<Camera.h>
+	<BaseObject.h>
+	<Transform.h>
+	<PhysicsObject.h>
+	<Area.h>
+	<GridInfo.h>
+
+1381423496 source:c:\stuff\adv\openge\engine\engine_codeblocks\editor_tilepainting.cpp
+	<Editor.h>
+	<GameInterface.h>
+	<Camera.h>
+	<BaseObject.h>
+	<Area.h>
+	<GridInfo.h>
+
+1381423502 source:c:\stuff\adv\openge\engine\engine_codeblocks\gameobjects\customobject.cpp
+	<CustomObject.h>
+	<RenderObject.h>
+	<Sprite.h>
+	<PhysicsObject.h>
+	<Physics.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_codeblocks\ko\systems\graphics\stb_image.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1381423502 source:c:\stuff\adv\openge\engine\engine_codeblocks\physics_optimize.cpp
+	<Physics.h>
+	<GameInterface.h>
+	<BaseObject.h>
+	<GridInfo.h>
+
+1381423496 source:c:\stuff\adv\openge\engine\engine_codeblocks\physics_picking.cpp
+	<Physics.h>
+	<GameInterface.h>
+	<BaseObject.h>
+
+1381423496 source:c:\stuff\adv\openge\engine\engine_codeblocks\rendermanager_deprecated.cpp
+	<RenderManager.h>
+	<SDL.h>
+	<memory.h>
+	<fstream>
+	<GraphicData.h>
+	<Transform.h>
+	<RenderObject.h>
+	<Camera.h>
+	<AreaLoader.h>
+	<GameInterface.h>
+	<stdio.h>
+
+1381423504 source:c:\stuff\adv\openge\engine\engine_codeblocks\rendermanager_loading.cpp
+	<RenderManager.h>
+	<SDL.h>
+	<fstream>
+	<stdio.h>
+	<stb_image.c>
+
+1381423490 source:c:\stuff\adv\openge\engine\engine_codeblocks\rendermanager_rendering.cpp
+	<RenderManager.h>
+	<Light.h>
+	<GridInfo.h>
+	<Sprite.h>
+	<Parser.h>
+	<Transform.h>
+	<RenderObject.h>
+	<Camera.h>
+	<GameInterface.h>
+	<GridInfo.h>
+
+1381423496 source:c:\stuff\adv\openge\engine\engine_codeblocks\rendermanager_setup.cpp
+	<RenderManager.h>
+
+1381423506 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\areas\area_beta.cpp
+	<Area_Beta.h>
+	<GameInterface.h>
+	<PlayerInterface.h>
+	<PhysicsObject.h>
+	<RenderObject.h>
+	<Sprite.h>
+	<Rock.h>
+	<Camera.h>
+	<GridInfo.h>
+	<LoadGameObject.h>
+	<SetLoadingScreen.h>
+	<ImportAreaData.h>
+	<MenuButton.h>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\areas\area_beta.h
+	<Area.h>
+	<BasicHUD.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\levels\area.h
+	<globals.h>
+	<ObjectManager.h>
+	<Physics.h>
+
+1381431936 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\core\globals.h
+	<glew.h>
+	<freeglut.h>
+	<glfw3.h>
+	<wglew.h>
+	<glm/glm.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<Box2D/Box2D.h>
+	<AntTweakBar.h>
+	<iostream>
+	<math.h>
+	<string>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<set>
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\freeglut_ext.h
+	<stdarg.h>
+
+1381423521 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\wglew.h
+	<windows.h>
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\glm.hpp
+	"core/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cstdio>
+	"core/setup.hpp"
+	"./core/_detail.hpp"
+	"./core/_vectorize.hpp"
+	"./core/type.hpp"
+	"./core/func_trigonometric.hpp"
+	"./core/func_exponential.hpp"
+	"./core/func_common.hpp"
+	"./core/func_packing.hpp"
+	"./core/func_geometric.hpp"
+	"./core/func_matrix.hpp"
+	"./core/func_vector_relational.hpp"
+	"./core/func_integer.hpp"
+	"./core/func_noise.hpp"
+	"./core/_swizzle.hpp"
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\_fixes.hpp
+	<cmath>
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\setup.hpp
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\_detail.hpp
+	"setup.hpp"
+	<cassert>
+	<cstdint>
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\_vectorize.hpp
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type.hpp
+	"type_half.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_gentype.hpp"
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat2x2.hpp"
+	"type_mat2x3.hpp"
+	"type_mat2x4.hpp"
+	"type_mat3x2.hpp"
+	"type_mat3x3.hpp"
+	"type_mat3x4.hpp"
+	"type_mat4x2.hpp"
+	"type_mat4x3.hpp"
+	"type_mat4x4.hpp"
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_half.hpp
+	<cstdlib>
+	"type_half.inl"
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_half.inl
+	"_detail.hpp"
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_float.hpp
+	"type_half.hpp"
+	"setup.hpp"
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_int.hpp
+	"setup.hpp"
+	"_detail.hpp"
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_gentype.hpp
+	"type_size.hpp"
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_size.hpp
+	<cstdlib>
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_vec1.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec1.inl"
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_vec.hpp
+	"type_gentype.hpp"
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\_swizzle.hpp
+	"_swizzle_func.hpp"
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\_swizzle_func.hpp
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_vec1.inl
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_vec2.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec2.inl"
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_vec2.inl
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_vec3.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec3.inl"
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_vec3.inl
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_vec4.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec4.inl"
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_vec4.inl
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_mat2x2.hpp
+	"type_mat.hpp"
+	"type_mat2x2.inl"
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_mat.hpp
+	"type_gentype.hpp"
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_mat2x2.inl
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_mat2x3.hpp
+	"type_mat.hpp"
+	"type_mat2x3.inl"
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_mat2x3.inl
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_mat2x4.hpp
+	"type_mat.hpp"
+	"type_mat2x4.inl"
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_mat2x4.inl
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_mat3x2.hpp
+	"type_mat.hpp"
+	"type_mat3x2.inl"
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_mat3x2.inl
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_mat3x3.hpp
+	"type_mat.hpp"
+	"type_mat3x3.inl"
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_mat3x3.inl
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_mat3x4.hpp
+	"type_mat.hpp"
+	"type_mat3x4.inl"
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_mat3x4.inl
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_mat4x2.hpp
+	"type_mat.hpp"
+	"type_mat4x2.inl"
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_mat4x2.inl
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_mat4x3.hpp
+	"type_mat.hpp"
+	"type_mat4x3.inl"
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_mat4x3.inl
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_mat4x4.hpp
+	"type_mat.hpp"
+	"type_mat4x4.inl"
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\type_mat4x4.inl
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\func_trigonometric.hpp
+	"func_trigonometric.inl"
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\func_trigonometric.inl
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\func_exponential.hpp
+	"func_exponential.inl"
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\func_exponential.inl
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\func_common.hpp
+	"_fixes.hpp"
+	"func_common.inl"
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\func_common.inl
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\func_packing.hpp
+	"func_packing.inl"
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\func_packing.inl
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\func_geometric.hpp
+	"func_geometric.inl"
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\func_geometric.inl
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\func_matrix.hpp
+	"func_matrix.inl"
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\func_matrix.inl
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\func_vector_relational.hpp
+	"_detail.hpp"
+	"func_vector_relational.inl"
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\func_vector_relational.inl
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\func_integer.hpp
+	"func_integer.inl"
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\func_integer.inl
+	<intrin.h>
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\func_noise.hpp
+	"func_noise.inl"
+
+1359561491 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\core\func_noise.inl
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\gtc\type_ptr.hpp
+	"../glm.hpp"
+	"../gtc/half_float.hpp"
+	"../gtc/quaternion.hpp"
+	<cstring>
+	"type_ptr.inl"
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\gtc\half_float.hpp
+	"../glm.hpp"
+	"half_float.inl"
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\gtc\half_float.inl
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\gtc\quaternion.hpp
+	"../glm.hpp"
+	"../gtc/half_float.hpp"
+	"quaternion.inl"
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\gtc\quaternion.inl
+	<limits>
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\gtc\type_ptr.inl
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\gtc\matrix_transform.hpp
+	"../glm.hpp"
+	"matrix_transform.inl"
+
+1359561492 c:\stuff\adv\openge\engine\engine_vs\codeblocks\gl\glm\gtc\matrix_transform.inl
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\box2d.h
+	<Box2D/Common/b2Settings.h>
+	<Box2D/Common/b2Draw.h>
+	<Box2D/Common/b2Timer.h>
+	<Box2D/Collision/Shapes/b2CircleShape.h>
+	<Box2D/Collision/Shapes/b2EdgeShape.h>
+	<Box2D/Collision/Shapes/b2ChainShape.h>
+	<Box2D/Collision/Shapes/b2PolygonShape.h>
+	<Box2D/Collision/b2BroadPhase.h>
+	<Box2D/Collision/b2Distance.h>
+	<Box2D/Collision/b2DynamicTree.h>
+	<Box2D/Collision/b2TimeOfImpact.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2Fixture.h>
+	<Box2D/Dynamics/b2WorldCallbacks.h>
+	<Box2D/Dynamics/b2TimeStep.h>
+	<Box2D/Dynamics/b2World.h>
+	<Box2D/Dynamics/Contacts/b2Contact.h>
+	<Box2D/Dynamics/Joints/b2DistanceJoint.h>
+	<Box2D/Dynamics/Joints/b2FrictionJoint.h>
+	<Box2D/Dynamics/Joints/b2GearJoint.h>
+	<Box2D/Dynamics/Joints/b2WheelJoint.h>
+	<Box2D/Dynamics/Joints/b2MouseJoint.h>
+	<Box2D/Dynamics/Joints/b2PrismaticJoint.h>
+	<Box2D/Dynamics/Joints/b2PulleyJoint.h>
+	<Box2D/Dynamics/Joints/b2RevoluteJoint.h>
+	<Box2D/Dynamics/Joints/b2RopeJoint.h>
+	<Box2D/Dynamics/Joints/b2WeldJoint.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\common\b2settings.h
+	<cassert>
+	<cmath>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\common\b2draw.h
+	<Box2D/Common/b2Math.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\common\b2math.h
+	<Box2D/Common/b2Settings.h>
+	<cmath>
+	<cfloat>
+	<cstddef>
+	<limits>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\common\b2timer.h
+	<Box2D/Common/b2Settings.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\collision\shapes\b2circleshape.h
+	<Box2D/Collision/Shapes/b2Shape.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\collision\shapes\b2shape.h
+	<Box2D/Common/b2BlockAllocator.h>
+	<Box2D/Common/b2Math.h>
+	<Box2D/Collision/b2Collision.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\common\b2blockallocator.h
+	<Box2D/Common/b2Settings.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\collision\b2collision.h
+	<Box2D/Common/b2Math.h>
+	<climits>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\collision\shapes\b2edgeshape.h
+	<Box2D/Collision/Shapes/b2Shape.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\collision\shapes\b2chainshape.h
+	<Box2D/Collision/Shapes/b2Shape.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\collision\shapes\b2polygonshape.h
+	<Box2D/Collision/Shapes/b2Shape.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\collision\b2broadphase.h
+	<Box2D/Common/b2Settings.h>
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Collision/b2DynamicTree.h>
+	<algorithm>
+
+1381423508 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\collision\b2dynamictree.h
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Common/b2GrowableStack.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\common\b2growablestack.h
+	<Box2D/Common/b2Settings.h>
+	<cstring>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\collision\b2distance.h
+	<Box2D/Common/b2Math.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\collision\b2timeofimpact.h
+	<Box2D/Common/b2Math.h>
+	<Box2D/Collision/b2Distance.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\dynamics\b2body.h
+	<Box2D/Common/b2Math.h>
+	<Box2D/Collision/Shapes/b2Shape.h>
+	<memory>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\dynamics\b2fixture.h
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Collision/Shapes/b2Shape.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\dynamics\b2worldcallbacks.h
+	<Box2D/Common/b2Settings.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\dynamics\b2timestep.h
+	<Box2D/Common/b2Math.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\dynamics\b2world.h
+	<Box2D/Common/b2Math.h>
+	<Box2D/Common/b2BlockAllocator.h>
+	<Box2D/Common/b2StackAllocator.h>
+	<Box2D/Dynamics/b2ContactManager.h>
+	<Box2D/Dynamics/b2WorldCallbacks.h>
+	<Box2D/Dynamics/b2TimeStep.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\common\b2stackallocator.h
+	<Box2D/Common/b2Settings.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\dynamics\b2contactmanager.h
+	<Box2D/Collision/b2BroadPhase.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\dynamics\contacts\b2contact.h
+	<Box2D/Common/b2Math.h>
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Collision/Shapes/b2Shape.h>
+	<Box2D/Dynamics/b2Fixture.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\dynamics\joints\b2distancejoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\dynamics\joints\b2joint.h
+	<Box2D/Common/b2Math.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\dynamics\joints\b2frictionjoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\dynamics\joints\b2gearjoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\dynamics\joints\b2wheeljoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\dynamics\joints\b2mousejoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\dynamics\joints\b2prismaticjoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\dynamics\joints\b2pulleyjoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\dynamics\joints\b2revolutejoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\dynamics\joints\b2ropejoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\box2d\dynamics\joints\b2weldjoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\tweakbar\anttweakbar.h
+	<stddef.h>
+	<string>
+	<string>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\objectmanager\objectmanager.h
+	<globals.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\physics\physics.h
+	<globals.h>
+	<DebugDraw.h>
+	<tweakbar.h>
+	<vector>
+	<map>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\misc\debugdraw.h
+	<Box2D/Box2D.h>
+
+1381423490 c:\stuff\adv\openge\engine\engine_vs\ko_framework\tweakbar.h
+	<globals.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\gui\basichud.h
+	<HUD.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\gui\hud.h
+	<globals.h>
+	<HUDObject.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\gui\hudobject.h
+	<globals.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\core\gameinterface.h
+	<globals.h>
+	<Physics.h>
+	<RenderManager.h>
+	<ObjectManager.h>
+	<PlayerInterface.h>
+	<HUDManager.h>
+	<audio.h>
+	<MainMenu.h>
+	<list>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\graphics\rendermanager.h
+	<globals.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\interface\playerinterface.h
+	<globals.h>
+	<map>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\gui\hudmanager.h
+	<globals.h>
+	<string>
+	<map>
+
+1381423504 c:\stuff\adv\openge\engine\engine_vs\ko_framework\audio.h
+	<globals.h>
+	<tweakbar.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\gui\mainmenu.h
+	<globals.h>
+	<MenuButton.h>
+	<list>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\gui\menubutton.h
+	<globals.h>
+	<string>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\components\physicsobject.h
+	<globals.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\components\renderobject.h
+	<globals.h>
+	<tweakbar.h>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sprite.h
+	<globals.h>
+	<tweakbar.h>
+
+1381423502 c:\stuff\adv\openge\engine\engine_vs\ko_framework\gameobjects\rock.h
+	<BaseObject.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\components\baseobject.h
+	<globals.h>
+	<Transform.h>
+	<ObjectProperties.h>
+	<tweakbar.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\components\transform.h
+	<globals.h>
+	<tweakbar.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\components\objectproperties.h
+	<globals.h>
+	<tweakbar.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\graphics\camera.h
+	<globals.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\levels\gridinfo.h
+	<globals.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\commands\loadgameobject.h
+	<Command.h>
+	<Area.h>
+	<BaseObject.h>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\basetypes\command.h
+	<globals.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\commands\setloadingscreen.h
+	<Command.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\commands\importareadata.h
+	<Command.h>
+	<AreaLoader.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\levels\arealoader.h
+	<globals.h>
+
+1381432335 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\audio.cpp
+	<audio.h>
+	<SFML/Audio.hpp>
+	<GameInterface.h>
+	<Parser.h>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\audio.hpp
+	<SFML/System.hpp>
+	<SFML/Audio/Listener.hpp>
+	<SFML/Audio/Music.hpp>
+	<SFML/Audio/Sound.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundBufferRecorder.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<SFML/Audio/SoundStream.hpp>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\config.hpp
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<locale>
+	<string>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system\thread.inl
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system\threadlocalptr.inl
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system\utf.inl
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system\vector2.inl
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\system\vector3.inl
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\audio\listener.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Vector3.hpp>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\audio\export.hpp
+	<SFML/Config.hpp>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\audio\music.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\audio\soundstream.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Time.hpp>
+	<cstdlib>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\audio\soundsource.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Vector3.hpp>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\audio\sound.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Time.hpp>
+	<cstdlib>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\audio\soundbuffer.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+	<set>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\audio\soundbufferrecorder.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<vector>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sfml\audio\soundrecorder.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Thread.hpp>
+	<vector>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\misc\parser.h
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<map>
+
+1381423506 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\editor.cpp
+	<Editor.h>
+	<GameInterface.h>
+	<Physics.h>
+	<Camera.h>
+	<BaseObject.h>
+	<Transform.h>
+	<PhysicsObject.h>
+	<Area.h>
+	<GridInfo.h>
+	<Light.h>
+	<LoadArea.h>
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\editor.h
+	<globals.h>
+	<tweakbar.h>
+
+1381423506 c:\stuff\adv\openge\engine\engine_vs\ko_framework\light.h
+	<globals.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\commands\loadarea.h
+	<Command.h>
+	<GameInterface.h>
+	<Area.h>
+
+1381423504 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\editor_helpers.cpp
+	<Editor.h>
+
+1381423490 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\editor_lights.cpp
+	<Editor.h>
+	<GameInterface.h>
+	<Area.h>
+	<GridInfo.h>
+	<Light.h>
+	<Camera.h>
+
+1381423496 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\editor_objects.cpp
+	<Editor.h>
+	<GameInterface.h>
+	<Physics.h>
+	<Camera.h>
+	<BaseObject.h>
+	<Transform.h>
+	<PhysicsObject.h>
+	<Area.h>
+	<GridInfo.h>
+	<LoadGameObject.h>
+	<CustomObject.h>
+
+1381423502 c:\stuff\adv\openge\engine\engine_vs\ko_framework\gameobjects\customobject.h
+	<BaseObject.h>
+
+1381423567 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\editor_physics.cpp
+	<Editor.h>
+	<GameInterface.h>
+	<Physics.h>
+	<BaseObject.h>
+	<Transform.h>
+	<PhysicsObject.h>
+	<Area.h>
+	<GridInfo.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\editor_selection.cpp
+	<Editor.h>
+	<GameInterface.h>
+	<Physics.h>
+	<Camera.h>
+	<BaseObject.h>
+	<Transform.h>
+	<PhysicsObject.h>
+	<Area.h>
+	<GridInfo.h>
+
+1381423496 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\editor_tilepainting.cpp
+	<Editor.h>
+	<GameInterface.h>
+	<Camera.h>
+	<BaseObject.h>
+	<Area.h>
+	<GridInfo.h>
+
+1381423502 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\gameobjects\customobject.cpp
+	<CustomObject.h>
+	<RenderObject.h>
+	<Sprite.h>
+	<PhysicsObject.h>
+	<Physics.h>
+
+1381423502 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\gameobjects\rock.cpp
+	<Rock.h>
+	<RenderObject.h>
+	<GraphicData.h>
+	<RenderManager.h>
+	<PhysicsObject.h>
+	<Physics.h>
+	<ObjectManager.h>
+	<Sprite.h>
+	<GridInfo.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\components\graphicdata.h
+	<globals.h>
+
+1381423506 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\basetypes\command.cpp
+	<Command.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\commands\changearea.cpp
+	<ChangeArea.h>
+	<GameInterface.h>
+	<Area.h>
+	<Camera.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\commands\changearea.h
+	<Command.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\commands\entermenu.cpp
+	<EnterMenu.h>
+	<GameInterface.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\commands\entermenu.h
+	<Command.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\commands\exitmenu.cpp
+	<ExitMenu.h>
+	<GameInterface.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\commands\exitmenu.h
+	<Command.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\commands\importareadata.cpp
+	<ImportAreaData.h>
+	<Area.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\commands\loadgameobject.cpp
+	<LoadGameObject.h>
+	<RenderManager.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\commands\setloadingscreen.cpp
+	<SetLoadingScreen.h>
+	<GameInterface.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\commands\unloadarea.cpp
+	<UnloadArea.h>
+	<GameInterface.h>
+	<Camera.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\commands\unloadarea.h
+	<Command.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\components\baseobject.cpp
+	<BaseObject.h>
+	<PlayerInterface.h>
+	<PhysicsObject.h>
+	<RenderObject.h>
+	<sstream>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\components\graphicdata.cpp
+	<GraphicData.h>
+	<RenderManager.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\components\objectproperties.cpp
+	<ObjectProperties.h>
+	<Editor.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\components\physicsobject.cpp
+	<PhysicsObject.h>
+	<BaseObject.h>
+	<Transform.h>
+	<Physics.h>
+	<GraphicData.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\components\renderobject.cpp
+	<RenderObject.h>
+	<memory.h>
+	<GraphicData.h>
+	<Sprite.h>
+	<RenderManager.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\core\gameinterface.cpp
+	<GameInterface.h>
+	<Parser.h>
+	<Camera.h>
+	<Area.h>
+	<Command.h>
+	<GridInfo.h>
+	<Area_Beta.h>
+	<LoadArea.h>
+	<UnloadArea.h>
+	<EnterMenu.h>
+	<BasicHUD.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\core\globals.cpp
+	<globals.h>
+	<Physics.h>
+	<GameInterface.h>
+	<ObjectManager.h>
+	<RenderManager.h>
+	<PlayerInterface.h>
+	<Audio.h>
+	<Editor.h>
+	<Camera.h>
+	<cstdio>
+	<cstdarg>
+	<cstring>
+	<stddef.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\graphics\camera.cpp
+	<Camera.h>
+	<globals.h>
+	<BaseObject.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\graphics\rendermanager.cpp
+	<RenderManager.h>
+	<BaseObject.h>
+	<Light.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\gui\basichud.cpp
+	<BasicHUD.h>
+	<GameInterface.h>
+	<Camera.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\gui\hud.cpp
+	<HUD.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\gui\hudmanager.cpp
+	<HUDManager.h>
+	<HUD.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\gui\hudobject.cpp
+	<HUDObject.h>
+	<GameInterface.h>
+	<RenderManager.h>
+	<Command.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\gui\mainmenu.cpp
+	<MainMenu.h>
+	<GameInterface.h>
+	<LoadArea.h>
+	<Area_Beta.h>
+	<DoNothing.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\commands\donothing.h
+	<Command.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\gui\menubutton.cpp
+	<MenuButton.h>
+	<GameInterface.h>
+	<RenderManager.h>
+	<Command.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\interface\playercommands.cpp
+	<PlayerCommands.h>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\interface\playercommands.h
+	<globals.h>
+	<PlayerInterface.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\interface\playerinterface.cpp
+	<PlayerInterface.h>
+	<GameInterface.h>
+	<BaseObject.h>
+	<Camera.h>
+	<PhysicsObject.h>
+	<RenderObject.h>
+	<Sprite.h>
+	<PlayerCommands.h>
+	<LoadGameObject.h>
+	<Rock.h>
+	<states.h>
+
+1381423490 c:\stuff\adv\openge\engine\engine_vs\ko_framework\states.h
+	<iostream>
+	<vector>
+	<stdlib.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\levels\area.cpp
+	<Area.h>
+	<GameInterface.h>
+	<BaseObject.h>
+	<GridInfo.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\levels\arealoader.cpp
+	<AreaLoader.h>
+	<Area.h>
+	<BaseObject.h>
+	<SDL.h>
+	<memory.h>
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_platform.h
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_config_dreamcast.h
+	"SDL_platform.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_config_macos.h
+	"SDL_platform.h"
+	<MacTypes.h>
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_config_symbian.h
+	"SDL_platform.h"
+	<stdarg.h>
+	<stddef.h>
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_config_os2.h
+	"SDL_platform.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_config_minimal.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\begin_code.h
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\close_code.h
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_keysym.h
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\engine_vs\ko_framework\sdl\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\levels\gridinfo.cpp
+	<GridInfo.h>
+	<RenderManager.h>
+	<Physics.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\misc\debugdraw.cpp
+	<DebugDraw.h>
+	<cstdio>
+	<cstdarg>
+	<cstring>
+	<globals.h>
+	<GameInterface.h>
+	<Camera.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\misc\parser.cpp
+	<Parser.h>
+	<iostream>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\objectmanager\objectmanager.cpp
+	<ObjectManager.h>
+	<RenderManager.h>
+	<BaseObject.h>
+	<Area.h>
+
+1381423507 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\physics\physics.cpp
+	<Physics.h>
+	<GameInterface.h>
+	<BaseObject.h>
+	<GridInfo.h>
+	<Area.h>
+	<fstream>
+
+1381423496 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\main.cpp
+	<globals.h>
+	<Parser.h>
+	<GameInterface.h>
+	<SDL.h>
+	<Camera.h>
+	<Editor.h>
+
+1381423502 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\physics_optimize.cpp
+	<Physics.h>
+	<GameInterface.h>
+	<BaseObject.h>
+	<GridInfo.h>
+
+1381423496 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\physics_picking.cpp
+	<Physics.h>
+	<GameInterface.h>
+	<BaseObject.h>
+
+1381423496 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\rendermanager_deprecated.cpp
+	<RenderManager.h>
+	<SDL.h>
+	<memory.h>
+	<fstream>
+	<GraphicData.h>
+	<Transform.h>
+	<RenderObject.h>
+	<Camera.h>
+	<AreaLoader.h>
+	<GameInterface.h>
+	<stdio.h>
+
+1381423504 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\rendermanager_loading.cpp
+	<RenderManager.h>
+	<SDL.h>
+	<fstream>
+	<stdio.h>
+	<stb_image.c>
+
+1381423507 c:\stuff\adv\openge\engine\engine_vs\ko_framework\ko\systems\graphics\stb_image.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1381423490 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\rendermanager_rendering.cpp
+	<RenderManager.h>
+	<Light.h>
+	<GridInfo.h>
+	<Sprite.h>
+	<Parser.h>
+	<Transform.h>
+	<RenderObject.h>
+	<Camera.h>
+	<GameInterface.h>
+	<GridInfo.h>
+
+1381423496 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\rendermanager_setup.cpp
+	<RenderManager.h>
+
+1381423490 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\sprite.cpp
+	<Sprite.h>
+	<RenderManager.h>
+	<Parser.h>
+
+1381423502 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\states.cpp
+	<states.h>
+
+1381423496 source:c:\stuff\adv\openge\engine\engine_vs\ko_framework\tweakbar.cpp
+	<tweakbar.h>
+	<Transform.h>
+
+1381419906 source:c:\stuff\adv\openge\engine\ko_framework\areas\area_beta.cpp
+	<Area_Beta.h>
+	<GameInterface.h>
+	<PlayerInterface.h>
+	<PhysicsObject.h>
+	<RenderObject.h>
+	<Sprite.h>
+	<Rock.h>
+	<Camera.h>
+	<GridInfo.h>
+	<LoadGameObject.h>
+	<SetLoadingScreen.h>
+	<ImportAreaData.h>
+	<MenuButton.h>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\areas\area_beta.h
+	<Area.h>
+	<BasicHUD.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\systems\levels\area.h
+	<globals.h>
+	<ObjectManager.h>
+	<Physics.h>
+
+1383760398 c:\stuff\adv\openge\engine\ko_framework\ko\core\globals.h
+	<glew.h>
+	<freeglut.h>
+	<wglew.h>
+	<glxew.h>
+	<glm/glm.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<Box2D/Box2D.h>
+	<AntTweakBar.h>
+	<FTGL/ftgl.h>
+	<FTGL/ftgl.h>
+	<iostream>
+	<math.h>
+	<string>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<set>
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\freeglut_ext.h
+	<stdarg.h>
+
+1381423521 c:\stuff\adv\openge\engine\codeblocks\gl\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\wglew.h
+	<windows.h>
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\glm.hpp
+	"core/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cstdio>
+	"core/setup.hpp"
+	"./core/_detail.hpp"
+	"./core/_vectorize.hpp"
+	"./core/type.hpp"
+	"./core/func_trigonometric.hpp"
+	"./core/func_exponential.hpp"
+	"./core/func_common.hpp"
+	"./core/func_packing.hpp"
+	"./core/func_geometric.hpp"
+	"./core/func_matrix.hpp"
+	"./core/func_vector_relational.hpp"
+	"./core/func_integer.hpp"
+	"./core/func_noise.hpp"
+	"./core/_swizzle.hpp"
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\_fixes.hpp
+	<cmath>
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\setup.hpp
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\_detail.hpp
+	"setup.hpp"
+	<cassert>
+	<cstdint>
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\_vectorize.hpp
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type.hpp
+	"type_half.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_gentype.hpp"
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat2x2.hpp"
+	"type_mat2x3.hpp"
+	"type_mat2x4.hpp"
+	"type_mat3x2.hpp"
+	"type_mat3x3.hpp"
+	"type_mat3x4.hpp"
+	"type_mat4x2.hpp"
+	"type_mat4x3.hpp"
+	"type_mat4x4.hpp"
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_half.hpp
+	<cstdlib>
+	"type_half.inl"
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_half.inl
+	"_detail.hpp"
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_float.hpp
+	"type_half.hpp"
+	"setup.hpp"
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_int.hpp
+	"setup.hpp"
+	"_detail.hpp"
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_gentype.hpp
+	"type_size.hpp"
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_size.hpp
+	<cstdlib>
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_vec1.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec1.inl"
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_vec.hpp
+	"type_gentype.hpp"
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\_swizzle.hpp
+	"_swizzle_func.hpp"
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\_swizzle_func.hpp
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_vec1.inl
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_vec2.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec2.inl"
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_vec2.inl
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_vec3.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec3.inl"
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_vec3.inl
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_vec4.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec4.inl"
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_vec4.inl
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_mat2x2.hpp
+	"type_mat.hpp"
+	"type_mat2x2.inl"
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_mat.hpp
+	"type_gentype.hpp"
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_mat2x2.inl
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_mat2x3.hpp
+	"type_mat.hpp"
+	"type_mat2x3.inl"
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_mat2x3.inl
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_mat2x4.hpp
+	"type_mat.hpp"
+	"type_mat2x4.inl"
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_mat2x4.inl
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_mat3x2.hpp
+	"type_mat.hpp"
+	"type_mat3x2.inl"
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_mat3x2.inl
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_mat3x3.hpp
+	"type_mat.hpp"
+	"type_mat3x3.inl"
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_mat3x3.inl
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_mat3x4.hpp
+	"type_mat.hpp"
+	"type_mat3x4.inl"
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_mat3x4.inl
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_mat4x2.hpp
+	"type_mat.hpp"
+	"type_mat4x2.inl"
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_mat4x2.inl
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_mat4x3.hpp
+	"type_mat.hpp"
+	"type_mat4x3.inl"
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_mat4x3.inl
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_mat4x4.hpp
+	"type_mat.hpp"
+	"type_mat4x4.inl"
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\type_mat4x4.inl
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\func_trigonometric.hpp
+	"func_trigonometric.inl"
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\func_trigonometric.inl
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\func_exponential.hpp
+	"func_exponential.inl"
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\func_exponential.inl
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\func_common.hpp
+	"_fixes.hpp"
+	"func_common.inl"
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\func_common.inl
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\func_packing.hpp
+	"func_packing.inl"
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\func_packing.inl
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\func_geometric.hpp
+	"func_geometric.inl"
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\func_geometric.inl
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\func_matrix.hpp
+	"func_matrix.inl"
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\func_matrix.inl
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\func_vector_relational.hpp
+	"_detail.hpp"
+	"func_vector_relational.inl"
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\func_vector_relational.inl
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\func_integer.hpp
+	"func_integer.inl"
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\func_integer.inl
+	<intrin.h>
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\func_noise.hpp
+	"func_noise.inl"
+
+1359557891 c:\stuff\adv\openge\engine\codeblocks\gl\glm\core\func_noise.inl
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\gtc\type_ptr.hpp
+	"../glm.hpp"
+	"../gtc/half_float.hpp"
+	"../gtc/quaternion.hpp"
+	<cstring>
+	"type_ptr.inl"
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\gtc\half_float.hpp
+	"../glm.hpp"
+	"half_float.inl"
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\gtc\half_float.inl
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\gtc\quaternion.hpp
+	"../glm.hpp"
+	"../gtc/half_float.hpp"
+	"quaternion.inl"
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\gtc\quaternion.inl
+	<limits>
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\gtc\type_ptr.inl
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\gtc\matrix_transform.hpp
+	"../glm.hpp"
+	"matrix_transform.inl"
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glm\gtc\matrix_transform.inl
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\box2d.h
+	<Box2D/Common/b2Settings.h>
+	<Box2D/Common/b2Draw.h>
+	<Box2D/Common/b2Timer.h>
+	<Box2D/Collision/Shapes/b2CircleShape.h>
+	<Box2D/Collision/Shapes/b2EdgeShape.h>
+	<Box2D/Collision/Shapes/b2ChainShape.h>
+	<Box2D/Collision/Shapes/b2PolygonShape.h>
+	<Box2D/Collision/b2BroadPhase.h>
+	<Box2D/Collision/b2Distance.h>
+	<Box2D/Collision/b2DynamicTree.h>
+	<Box2D/Collision/b2TimeOfImpact.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2Fixture.h>
+	<Box2D/Dynamics/b2WorldCallbacks.h>
+	<Box2D/Dynamics/b2TimeStep.h>
+	<Box2D/Dynamics/b2World.h>
+	<Box2D/Dynamics/Contacts/b2Contact.h>
+	<Box2D/Dynamics/Joints/b2DistanceJoint.h>
+	<Box2D/Dynamics/Joints/b2FrictionJoint.h>
+	<Box2D/Dynamics/Joints/b2GearJoint.h>
+	<Box2D/Dynamics/Joints/b2WheelJoint.h>
+	<Box2D/Dynamics/Joints/b2MouseJoint.h>
+	<Box2D/Dynamics/Joints/b2PrismaticJoint.h>
+	<Box2D/Dynamics/Joints/b2PulleyJoint.h>
+	<Box2D/Dynamics/Joints/b2RevoluteJoint.h>
+	<Box2D/Dynamics/Joints/b2RopeJoint.h>
+	<Box2D/Dynamics/Joints/b2WeldJoint.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\common\b2settings.h
+	<cassert>
+	<cmath>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\common\b2draw.h
+	<Box2D/Common/b2Math.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\common\b2math.h
+	<Box2D/Common/b2Settings.h>
+	<cmath>
+	<cfloat>
+	<cstddef>
+	<limits>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\common\b2timer.h
+	<Box2D/Common/b2Settings.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\collision\shapes\b2circleshape.h
+	<Box2D/Collision/Shapes/b2Shape.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\collision\shapes\b2shape.h
+	<Box2D/Common/b2BlockAllocator.h>
+	<Box2D/Common/b2Math.h>
+	<Box2D/Collision/b2Collision.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\common\b2blockallocator.h
+	<Box2D/Common/b2Settings.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\collision\b2collision.h
+	<Box2D/Common/b2Math.h>
+	<climits>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\collision\shapes\b2edgeshape.h
+	<Box2D/Collision/Shapes/b2Shape.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\collision\shapes\b2chainshape.h
+	<Box2D/Collision/Shapes/b2Shape.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\collision\shapes\b2polygonshape.h
+	<Box2D/Collision/Shapes/b2Shape.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\collision\b2broadphase.h
+	<Box2D/Common/b2Settings.h>
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Collision/b2DynamicTree.h>
+	<algorithm>
+
+1381419908 c:\stuff\adv\openge\engine\ko_framework\box2d\collision\b2dynamictree.h
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Common/b2GrowableStack.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\common\b2growablestack.h
+	<Box2D/Common/b2Settings.h>
+	<cstring>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\collision\b2distance.h
+	<Box2D/Common/b2Math.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\collision\b2timeofimpact.h
+	<Box2D/Common/b2Math.h>
+	<Box2D/Collision/b2Distance.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\dynamics\b2body.h
+	<Box2D/Common/b2Math.h>
+	<Box2D/Collision/Shapes/b2Shape.h>
+	<memory>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\dynamics\b2fixture.h
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Collision/Shapes/b2Shape.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\dynamics\b2worldcallbacks.h
+	<Box2D/Common/b2Settings.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\dynamics\b2timestep.h
+	<Box2D/Common/b2Math.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\dynamics\b2world.h
+	<Box2D/Common/b2Math.h>
+	<Box2D/Common/b2BlockAllocator.h>
+	<Box2D/Common/b2StackAllocator.h>
+	<Box2D/Dynamics/b2ContactManager.h>
+	<Box2D/Dynamics/b2WorldCallbacks.h>
+	<Box2D/Dynamics/b2TimeStep.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\common\b2stackallocator.h
+	<Box2D/Common/b2Settings.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\dynamics\b2contactmanager.h
+	<Box2D/Collision/b2BroadPhase.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\dynamics\contacts\b2contact.h
+	<Box2D/Common/b2Math.h>
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Collision/Shapes/b2Shape.h>
+	<Box2D/Dynamics/b2Fixture.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\dynamics\joints\b2distancejoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\dynamics\joints\b2joint.h
+	<Box2D/Common/b2Math.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\dynamics\joints\b2frictionjoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\dynamics\joints\b2gearjoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\dynamics\joints\b2wheeljoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\dynamics\joints\b2mousejoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\dynamics\joints\b2prismaticjoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\dynamics\joints\b2pulleyjoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\dynamics\joints\b2revolutejoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\dynamics\joints\b2ropejoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\box2d\dynamics\joints\b2weldjoint.h
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\tweakbar\anttweakbar.h
+	<stddef.h>
+	<string>
+	<string>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\systems\objectmanager\objectmanager.h
+	<globals.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\systems\physics\physics.h
+	<globals.h>
+	<DebugDraw.h>
+	<tweakbar.h>
+	<vector>
+	<map>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\systems\misc\debugdraw.h
+	<Box2D/Box2D.h>
+
+1381419890 c:\stuff\adv\openge\engine\ko_framework\tweakbar.h
+	<globals.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\basichud.h
+	<HUD.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\hud.h
+	<globals.h>
+	<HUDObject.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\hudobject.h
+	<globals.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\core\gameinterface.h
+	<globals.h>
+	<Physics.h>
+	<RenderManager.h>
+	<ObjectManager.h>
+	<PlayerInterface.h>
+	<HUDManager.h>
+	<audio.h>
+	<MainMenu.h>
+	<list>
+
+1381874575 c:\stuff\adv\openge\engine\ko_framework\ko\systems\graphics\rendermanager.h
+	<globals.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\systems\interface\playerinterface.h
+	<globals.h>
+	<map>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\hudmanager.h
+	<globals.h>
+	<string>
+	<map>
+
+1381419904 c:\stuff\adv\openge\engine\ko_framework\audio.h
+	<globals.h>
+	<tweakbar.h>
+
+1383768887 c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\mainmenu.h
+	<globals.h>
+	<MenuButton.h>
+	<list>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\menubutton.h
+	<globals.h>
+	<string>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\components\physicsobject.h
+	<globals.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\components\renderobject.h
+	<globals.h>
+	<tweakbar.h>
+
+1382117571 c:\stuff\adv\openge\engine\ko_framework\sprite.h
+	<globals.h>
+	<tweakbar.h>
+
+1381419902 c:\stuff\adv\openge\engine\ko_framework\gameobjects\rock.h
+	<BaseObject.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\components\baseobject.h
+	<globals.h>
+	<Transform.h>
+	<ObjectProperties.h>
+	<tweakbar.h>
+
+1382117571 c:\stuff\adv\openge\engine\ko_framework\ko\components\transform.h
+	<globals.h>
+	<tweakbar.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\components\objectproperties.h
+	<globals.h>
+	<tweakbar.h>
+
+1381875546 c:\stuff\adv\openge\engine\ko_framework\ko\systems\graphics\camera.h
+	<globals.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\systems\levels\gridinfo.h
+	<globals.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\commands\loadgameobject.h
+	<Command.h>
+	<Area.h>
+	<BaseObject.h>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\ko\basetypes\command.h
+	<globals.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\commands\setloadingscreen.h
+	<Command.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\commands\importareadata.h
+	<Command.h>
+	<AreaLoader.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\systems\levels\arealoader.h
+	<globals.h>
+
+1381428735 source:c:\stuff\adv\openge\engine\ko_framework\audio.cpp
+	<audio.h>
+	<SFML/Audio.hpp>
+	<GameInterface.h>
+	<Parser.h>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\audio.hpp
+	<SFML/System.hpp>
+	<SFML/Audio/Listener.hpp>
+	<SFML/Audio/Music.hpp>
+	<SFML/Audio/Sound.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundBufferRecorder.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<SFML/Audio/SoundStream.hpp>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\config.hpp
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<locale>
+	<string>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system\thread.inl
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system\threadlocalptr.inl
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system\utf.inl
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system\vector2.inl
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\system\vector3.inl
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\audio\listener.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Vector3.hpp>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\audio\export.hpp
+	<SFML/Config.hpp>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\audio\music.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\audio\soundstream.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Time.hpp>
+	<cstdlib>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\audio\soundsource.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Vector3.hpp>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\audio\sound.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Time.hpp>
+	<cstdlib>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\audio\soundbuffer.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+	<set>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\audio\soundbufferrecorder.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<vector>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\sfml\audio\soundrecorder.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Thread.hpp>
+	<vector>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\systems\misc\parser.h
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<map>
+
+1383766788 source:c:\stuff\adv\openge\engine\ko_framework\editor.cpp
+	<Editor.h>
+	<GameInterface.h>
+	<Physics.h>
+	<GUIManager.h>
+	<GUIWindow.h>
+	<GUIField.h>
+	<GUIText.h>
+	<GUIBuilder.h>
+	<Camera.h>
+	<BaseObject.h>
+	<Transform.h>
+	<PhysicsObject.h>
+	<Area.h>
+	<GridInfo.h>
+	<Light.h>
+	<DoNothing.h>
+	<LoadArea.h>
+
+1383334219 c:\stuff\adv\openge\engine\ko_framework\editor.h
+	<globals.h>
+	<tweakbar.h>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\light.h
+	<globals.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\commands\loadarea.h
+	<Command.h>
+	<GameInterface.h>
+	<Area.h>
+
+1381419904 source:c:\stuff\adv\openge\engine\ko_framework\editor_helpers.cpp
+	<Editor.h>
+
+1381419890 source:c:\stuff\adv\openge\engine\ko_framework\editor_lights.cpp
+	<Editor.h>
+	<GameInterface.h>
+	<Area.h>
+	<GridInfo.h>
+	<Light.h>
+	<Camera.h>
+
+1381419896 source:c:\stuff\adv\openge\engine\ko_framework\editor_objects.cpp
+	<Editor.h>
+	<GameInterface.h>
+	<Physics.h>
+	<Camera.h>
+	<BaseObject.h>
+	<Transform.h>
+	<PhysicsObject.h>
+	<Area.h>
+	<GridInfo.h>
+	<LoadGameObject.h>
+	<CustomObject.h>
+
+1381419902 c:\stuff\adv\openge\engine\ko_framework\gameobjects\customobject.h
+	<BaseObject.h>
+
+1381787180 source:c:\stuff\adv\openge\engine\ko_framework\editor_physics.cpp
+	<Editor.h>
+	<GameInterface.h>
+	<Physics.h>
+	<BaseObject.h>
+	<Transform.h>
+	<PhysicsObject.h>
+	<Area.h>
+	<GridInfo.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\editor_selection.cpp
+	<Editor.h>
+	<GameInterface.h>
+	<Physics.h>
+	<Camera.h>
+	<BaseObject.h>
+	<Transform.h>
+	<PhysicsObject.h>
+	<Area.h>
+	<GridInfo.h>
+
+1381419896 source:c:\stuff\adv\openge\engine\ko_framework\editor_tilepainting.cpp
+	<Editor.h>
+	<GameInterface.h>
+	<Camera.h>
+	<BaseObject.h>
+	<Area.h>
+	<GridInfo.h>
+
+1381419902 source:c:\stuff\adv\openge\engine\ko_framework\gameobjects\customobject.cpp
+	<CustomObject.h>
+	<RenderObject.h>
+	<Sprite.h>
+	<PhysicsObject.h>
+	<Physics.h>
+
+1381419902 source:c:\stuff\adv\openge\engine\ko_framework\gameobjects\rock.cpp
+	<Rock.h>
+	<RenderObject.h>
+	<GraphicData.h>
+	<RenderManager.h>
+	<PhysicsObject.h>
+	<Physics.h>
+	<ObjectManager.h>
+	<Sprite.h>
+	<GridInfo.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\components\graphicdata.h
+	<globals.h>
+
+1381419906 source:c:\stuff\adv\openge\engine\ko_framework\ko\basetypes\command.cpp
+	<Command.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\commands\changearea.cpp
+	<ChangeArea.h>
+	<GameInterface.h>
+	<Area.h>
+	<Camera.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\commands\changearea.h
+	<Command.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\commands\entermenu.cpp
+	<EnterMenu.h>
+	<GameInterface.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\commands\entermenu.h
+	<Command.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\commands\exitmenu.cpp
+	<ExitMenu.h>
+	<GameInterface.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\commands\exitmenu.h
+	<Command.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\commands\importareadata.cpp
+	<ImportAreaData.h>
+	<Area.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\commands\loadgameobject.cpp
+	<LoadGameObject.h>
+	<RenderManager.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\commands\setloadingscreen.cpp
+	<SetLoadingScreen.h>
+	<GameInterface.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\commands\unloadarea.cpp
+	<UnloadArea.h>
+	<GameInterface.h>
+	<Camera.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\commands\unloadarea.h
+	<Command.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\components\baseobject.cpp
+	<BaseObject.h>
+	<PlayerInterface.h>
+	<PhysicsObject.h>
+	<RenderObject.h>
+	<sstream>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\components\graphicdata.cpp
+	<GraphicData.h>
+	<RenderManager.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\components\objectproperties.cpp
+	<ObjectProperties.h>
+	<Editor.h>
+
+1381872838 source:c:\stuff\adv\openge\engine\ko_framework\ko\components\physicsobject.cpp
+	<PhysicsObject.h>
+	<BaseObject.h>
+	<Transform.h>
+	<Physics.h>
+	<GraphicData.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\components\renderobject.cpp
+	<RenderObject.h>
+	<memory.h>
+	<GraphicData.h>
+	<Sprite.h>
+	<RenderManager.h>
+
+1383768852 source:c:\stuff\adv\openge\engine\ko_framework\ko\core\gameinterface.cpp
+	<GameInterface.h>
+	<GUIManager.h>
+	<Parser.h>
+	<Camera.h>
+	<Area.h>
+	<Command.h>
+	<GridInfo.h>
+	<Area_Beta.h>
+	<LoadArea.h>
+	<UnloadArea.h>
+	<EnterMenu.h>
+	<BasicHUD.h>
+
+1382559623 source:c:\stuff\adv\openge\engine\ko_framework\ko\core\globals.cpp
+	<globals.h>
+	<Physics.h>
+	<GameInterface.h>
+	<ObjectManager.h>
+	<RenderManager.h>
+	<PlayerInterface.h>
+	<audio.h>
+	<Editor.h>
+	<GUIManager.h>
+	<Camera.h>
+	<cstdio>
+	<cstdarg>
+	<cstring>
+	<stddef.h>
+
+1381875295 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\graphics\camera.cpp
+	<Camera.h>
+	<globals.h>
+	<BaseObject.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\graphics\rendermanager.cpp
+	<RenderManager.h>
+	<BaseObject.h>
+	<Light.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\basichud.cpp
+	<BasicHUD.h>
+	<GameInterface.h>
+	<Camera.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\hud.cpp
+	<HUD.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\hudmanager.cpp
+	<HUDManager.h>
+	<HUD.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\hudobject.cpp
+	<HUDObject.h>
+	<GameInterface.h>
+	<RenderManager.h>
+	<Command.h>
+
+1383782440 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\mainmenu.cpp
+	<MainMenu.h>
+	<GameInterface.h>
+	<LoadArea.h>
+	<Area_Beta.h>
+	<DoNothing.h>
+	<GUIBuilder.h>
+	<GUIWindow.h>
+	<GUIManager.h>
+	<GUIList.h>
+	<GUIButton.h>
+	<GUIGraphic.h>
+	<GUIField.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\commands\donothing.h
+	<Command.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\menubutton.cpp
+	<MenuButton.h>
+	<GameInterface.h>
+	<RenderManager.h>
+	<Command.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\interface\playercommands.cpp
+	<PlayerCommands.h>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\systems\interface\playercommands.h
+	<globals.h>
+	<PlayerInterface.h>
+
+1382117571 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\interface\playerinterface.cpp
+	<PlayerInterface.h>
+	<GameInterface.h>
+	<BaseObject.h>
+	<Camera.h>
+	<PhysicsObject.h>
+	<RenderObject.h>
+	<Sprite.h>
+	<PlayerCommands.h>
+	<PlayerStates.h>
+
+1381419890 c:\stuff\adv\openge\engine\ko_framework\states.h
+	<iostream>
+	<vector>
+	<stdlib.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\levels\area.cpp
+	<Area.h>
+	<GameInterface.h>
+	<BaseObject.h>
+	<GridInfo.h>
+
+1383079731 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\levels\arealoader.cpp
+	<AreaLoader.h>
+	<Area.h>
+	<BaseObject.h>
+	<memory.h>
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_platform.h
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_config_dreamcast.h
+	"SDL_platform.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_config_macos.h
+	"SDL_platform.h"
+	<MacTypes.h>
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_config_symbian.h
+	"SDL_platform.h"
+	<stdarg.h>
+	<stddef.h>
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_config_os2.h
+	"SDL_platform.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_config_minimal.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\begin_code.h
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\close_code.h
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_keysym.h
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381423496 c:\stuff\adv\openge\engine\ko_framework\sdl\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\levels\gridinfo.cpp
+	<GridInfo.h>
+	<RenderManager.h>
+	<Physics.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\misc\debugdraw.cpp
+	<DebugDraw.h>
+	<cstdio>
+	<cstdarg>
+	<cstring>
+	<globals.h>
+	<GameInterface.h>
+	<Camera.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\misc\parser.cpp
+	<Parser.h>
+	<iostream>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\objectmanager\objectmanager.cpp
+	<ObjectManager.h>
+	<RenderManager.h>
+	<BaseObject.h>
+	<Area.h>
+
+1381419907 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\physics\physics.cpp
+	<Physics.h>
+	<GameInterface.h>
+	<BaseObject.h>
+	<GridInfo.h>
+	<Area.h>
+	<fstream>
+
+1383763848 source:c:\stuff\adv\openge\engine\ko_framework\main.cpp
+	<globals.h>
+	<Parser.h>
+	<GameInterface.h>
+	<Camera.h>
+	<Editor.h>
+	<GUIManager.h>
+	<SFML/System.hpp>
+
+1381419902 source:c:\stuff\adv\openge\engine\ko_framework\physics_optimize.cpp
+	<Physics.h>
+	<GameInterface.h>
+	<BaseObject.h>
+	<GridInfo.h>
+
+1381419896 source:c:\stuff\adv\openge\engine\ko_framework\physics_picking.cpp
+	<Physics.h>
+	<GameInterface.h>
+	<BaseObject.h>
+
+1382389405 source:c:\stuff\adv\openge\engine\ko_framework\rendermanager_deprecated.cpp
+	<RenderManager.h>
+	<memory.h>
+	<fstream>
+	<GraphicData.h>
+	<Transform.h>
+	<RenderObject.h>
+	<Camera.h>
+	<AreaLoader.h>
+	<GameInterface.h>
+	<stdio.h>
+
+1383760219 source:c:\stuff\adv\openge\engine\ko_framework\rendermanager_loading.cpp
+	<RenderManager.h>
+	<fstream>
+	<stdio.h>
+	<stb_image.c>
+
+1381419907 c:\stuff\adv\openge\engine\ko_framework\ko\systems\graphics\stb_image.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1381877721 source:c:\stuff\adv\openge\engine\ko_framework\rendermanager_rendering.cpp
+	<RenderManager.h>
+	<Light.h>
+	<GridInfo.h>
+	<Sprite.h>
+	<Parser.h>
+	<Transform.h>
+	<RenderObject.h>
+	<Camera.h>
+	<GameInterface.h>
+	<GridInfo.h>
+	<BaseObject.h>
+
+1381419896 source:c:\stuff\adv\openge\engine\ko_framework\rendermanager_setup.cpp
+	<RenderManager.h>
+
+1383079731 source:c:\stuff\adv\openge\engine\ko_framework\sprite.cpp
+	<Sprite.h>
+	<RenderManager.h>
+	<Parser.h>
+
+1381419902 source:c:\stuff\adv\openge\engine\ko_framework\states.cpp
+	<states.h>
+
+1381419896 source:c:\stuff\adv\openge\engine\ko_framework\tweakbar.cpp
+	<tweakbar.h>
+	<Transform.h>
+
+1382117571 c:\stuff\adv\openge\engine\ko_framework\playerstates.h
+	<globals.h>
+	<states.h>
+
+1382552073 source:c:\stuff\adv\openge\engine\ko_framework\playerstates.cpp
+	<PlayerStates.h>
+	<Physics.h>
+	<PlayerInterface.h>
+	<audio.h>
+	<BaseObject.h>
+	<RenderObject.h>
+	<PhysicsObject.h>
+	<Sprite.h>
+
+1383782549 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\guitext.cpp
+	<GUIText.h>
+
+1382552073 c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\guitext.h
+	<GUINode.h>
+
+1383773985 c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\guinode.h
+	<globals.h>
+
+1383760218 c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\guiwindow.h
+	<GUINode.h>
+
+1383775863 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\guinode.cpp
+	<GUINode.h>
+	<GUIManager.h>
+
+1383782919 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\guiwindow.cpp
+	<GUIWindow.h>
+	<GUIManager.h>
+
+1359557892 c:\stuff\adv\openge\engine\codeblocks\gl\glxew.h
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xmd.h>
+	<GL/glew.h>
+
+1381419906 c:\stuff\adv\openge\engine\ko_framework\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1383760218 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\guimanager.cpp
+	<GUIManager.h>
+	<GUINode.h>
+
+1383330453 c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\guimanager.h
+	<globals.h>
+
+1383774397 c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\guibuilder.h
+	<globals.h>
+
+1383782583 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\guibuilder.cpp
+	<GUIBuilder.h>
+	<GUIText.h>
+	<GUIWindow.h>
+	<GUIButton.h>
+	<GUIList.h>
+	<GUIGraphic.h>
+	<GUIManager.h>
+	<Command.h>
+	<DoNothing.h>
+
+1383765769 c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\guifield.h
+	<GUINode.h>
+	<GUIWindow.h>
+	<GUIField.cpp>
+
+1383332029 c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\guifield.cpp
+	<GUIManager.h>
+
+1383760218 c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\guibutton.h
+	<GUINode.h>
+
+1383768477 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\guibutton.cpp
+	<GUIButton.h>
+	<GUIManager.h>
+	<GameInterface.h>
+	<Command.h>
+
+1383782215 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\guilist.cpp
+	<GUIList.h>
+	<GUIManager.h>
+	<GUIWindow.h>
+
+1383781982 c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\guilist.h
+	<GUINode.h>
+
+1383760218 c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\guigraphic.h
+	<GUINode.h>
+
+1383761511 source:c:\stuff\adv\openge\engine\ko_framework\ko\systems\gui\guigraphic.cpp
+	<GUIGraphic.h>
+	<RenderManager.h>
+

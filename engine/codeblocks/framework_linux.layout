@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="../ko_framework/ko/systems/misc/Parser.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="106" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/Editor_Selection.cpp" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2986" topLine="106" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/GUI/GUIBuilder.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1852" topLine="40" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/GUI/GUIManager.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="454" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/states.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2244" topLine="54" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/Sprite.cpp" open="0" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1990" topLine="91" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/misc/DataFile.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8299" topLine="256" />
+		</Cursor>
+		<Folding>
+			<Collapse line="104" />
+			<Collapse line="114" />
+			<Collapse line="125" />
+			<Collapse line="145" />
+		</Folding>
+	</File>
+	<File name="../ko_framework/ko/systems/misc/Parser.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6036" topLine="39" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/Editor_Objects.cpp" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3556" topLine="131" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/GUI/GUINode.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8802" topLine="358" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/Editor.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1485" topLine="51" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/GUI/GUIButton.cpp" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="616" topLine="119" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/GUI/GUIDirectoryBrowser.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2979" topLine="90" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/commands/CreateArea.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="63" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/graphics/stb_image.c" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="18804" topLine="483" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/commands/LoadGameObject.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="552" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/gameobjects/CustomObject.cpp" open="0" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1379" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/Editor_GUIBuilder.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="857" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/core/globals.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3855" topLine="316" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/commands/LoadArea.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="696" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/GUI/MenuButton.cpp" open="0" top="0" tabpos="23" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5669" topLine="169" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/Editor_GUIBuilder.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14144" topLine="405" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/basetypes/Command.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="746" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/GUI/GUIField.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="75" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/GUITextBox.cpp" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1115" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/Physics_Picking.cpp" open="0" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1444" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/misc/DataFile.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2366" topLine="51" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/Physics_Optimize.cpp" open="0" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3970" topLine="151" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/RenderManager_Rendering.cpp" open="0" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12845" topLine="349" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/PlayerStates.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/main.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1934" topLine="60" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/states.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="423" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/levels/AreaLoader.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="434" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/core/GameInterface.cpp" open="0" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1609" topLine="64" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/Editor_TilePainting.cpp" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3176" topLine="101" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/misc/DataFileIterator.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="129" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/graphics/Camera.cpp" open="0" top="0" tabpos="24" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1585" topLine="58" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/GUI/MainMenu.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2901" topLine="73" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/GUI/GUINode.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2376" topLine="54" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/GUITextBox.h" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="556" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/GUI/GUIButton.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="696" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/misc/DataFileIterator.cpp" open="1" top="1" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4800" topLine="132" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/GUI/GUIBuilder.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7727" topLine="386" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/levels/GridInfo.h" open="0" top="0" tabpos="30" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="238" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/audio.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3498" topLine="97" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/interface/PlayerInterface.h" open="0" top="0" tabpos="28" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1108" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/GUI/GUIField.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="293" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/Editor_Physics.cpp" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1502" topLine="35" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/commands/CreateArea.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2036" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/GUI/GUIList.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="459" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/graphics/RenderManager.h" open="0" top="0" tabpos="26" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1451" topLine="37" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/GUI/GUIManager.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2120" topLine="88" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/physics/Physics.cpp" open="0" top="0" tabpos="31" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11148" topLine="411" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/Editor_Lights.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2623" topLine="78" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/GUI/GUIDirectoryBrowser.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="424" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/components/PhysicsObject.cpp" open="0" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1479" topLine="44" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/levels/Area.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1482" topLine="24" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/graphics/RenderManager.cpp" open="0" top="0" tabpos="25" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="957" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/interface/PlayerInterface.cpp" open="0" top="0" tabpos="27" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="572" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/GUI/GUIText.cpp" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="932" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/core/GameInterface.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1357" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/GUI/GUIText.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="292" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/GUI/MainMenu.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../ko_framework/ko/systems/levels/GridInfo.cpp" open="0" top="0" tabpos="29" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7609" topLine="269" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

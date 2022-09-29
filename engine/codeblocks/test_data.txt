@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+
+
+
+"Object 1"
+{
+ Uber
+ {
+  fancyname = "object 1"
+  pos = 1 2 3
+  vals = 10
+  vals_list = 9 8 7 6 5 4 3 2 1 0
+ }
+ Foo
+ {
+   0 = 0
+   1 = 2
+   2 = 5
+   3 = 7
+   6 = 7
+   name = "test foo"
+ }
+}
+
+
+Object2
+{
+ Uber
+ {
+  fancyname = "object 2"
+  pos = 4 5 6
+  vals = 2
+  vals_list = 5000 1234
+ }
+}
+
+
+Object3
+{
+ Foo
+ {
+  0 = 12345
+  name = "bad foo object 3"
+ }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

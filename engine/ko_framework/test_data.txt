@@ -1,0 +1,12 @@
+
+
+Object1
+{
+  Uber
+  {
+   fancyname = "[george the happy]"
+   pos = 1 2 3
+   vals = 4
+   vals_list = 5 4 3 2
+  }
+}

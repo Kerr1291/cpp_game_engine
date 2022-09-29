@@ -1,0 +1,110 @@
+
+Compile Error:
+0(18) : warning C7533: global variable gl_Vertex is deprecated after version 120
+0(23) : warning C7533: global variable gl_TexCoord is deprecated after version 120
+0(23) : warning C7533: global variable gl_MultiTexCoord0 is deprecated after version 120
+
+
+Compile Error:
+0(27) : warning C7533: global variable gl_TexCoord is deprecated after version 120
+
+
+Linker Error:
+Vertex info
+-----------
+0(18) : warning C7533: global variable gl_Vertex is deprecated after version 120
+0(23) : warning C7533: global variable gl_TexCoord is deprecated after version 120
+0(23) : warning C7533: global variable gl_MultiTexCoord0 is deprecated after version 120
+
+Fragment info
+-------------
+0(27) : warning C7533: global variable gl_TexCoord is deprecated after version 120
+
+
+Compile Error:
+0(19) : warning C7533: global variable gl_Vertex is deprecated after version 120
+0(30) : warning C7533: global variable gl_TexCoord is deprecated after version 120
+0(30) : warning C7533: global variable gl_MultiTexCoord0 is deprecated after version 120
+
+
+Compile Error:
+0(19) : warning C7533: global variable gl_TexCoord is deprecated after version 120
+
+
+Linker Error:
+Vertex info
+-----------
+0(19) : warning C7533: global variable gl_Vertex is deprecated after version 120
+0(30) : warning C7533: global variable gl_TexCoord is deprecated after version 120
+0(30) : warning C7533: global variable gl_MultiTexCoord0 is deprecated after version 120
+
+Fragment info
+-------------
+0(19) : warning C7533: global variable gl_TexCoord is deprecated after version 120
+0(11) : warning C7050: "ocolor" might be used before being initialized
+
+
+Compile Error:
+0(19) : warning C7533: global variable gl_Vertex is deprecated after version 120
+0(30) : warning C7533: global variable gl_TexCoord is deprecated after version 120
+0(30) : warning C7533: global variable gl_MultiTexCoord0 is deprecated after version 120
+
+
+Compile Error:
+0(14) : warning C7533: global variable gl_TexCoord is deprecated after version 120
+
+
+Linker Error:
+Vertex info
+-----------
+0(19) : warning C7533: global variable gl_Vertex is deprecated after version 120
+0(30) : warning C7533: global variable gl_TexCoord is deprecated after version 120
+0(30) : warning C7533: global variable gl_MultiTexCoord0 is deprecated after version 120
+
+Fragment info
+-------------
+0(14) : warning C7533: global variable gl_TexCoord is deprecated after version 120
+0(7) : warning C7050: "ocolor" might be used before being initialized
+
+
+Compile Error:
+0(5) : warning C7538: OpenGL does not allow 'varying' after 'inout'
+
+
+Compile Error:
+0(25) : warning C7011: implicit cast from "int" to "float"
+
+
+Linker Error:
+Vertex info
+-----------
+0(5) : warning C7538: OpenGL does not allow 'varying' after 'inout'
+
+Fragment info
+-------------
+0(25) : warning C7011: implicit cast from "int" to "float"
+
+
+Compile Error:
+0(2) : warning C7538: OpenGL does not allow 'varying' after 'inout'
+0(3) : warning C7538: OpenGL does not allow 'varying' after 'inout'
+0(14) : warning C7011: implicit cast from "int" to "float"
+
+
+Compile Error:
+0(5) : warning C7538: OpenGL does not allow 'varying' after 'inout'
+0(6) : warning C7538: OpenGL does not allow 'varying' after 'inout'
+
+
+Linker Error:
+Vertex info
+-----------
+0(2) : warning C7538: OpenGL does not allow 'varying' after 'inout'
+0(3) : warning C7538: OpenGL does not allow 'varying' after 'inout'
+0(14) : warning C7011: implicit cast from "int" to "float"
+
+Fragment info
+-------------
+0(5) : warning C7538: OpenGL does not allow 'varying' after 'inout'
+0(6) : warning C7538: OpenGL does not allow 'varying' after 'inout'
+

@@ -1,0 +1,49 @@
+{
+This file is the atlas info used to map animation texture coordinates in the atlas
+Data Format:
+  numAnimations <- label must be exact, value must match number of textures
+  #_name = <- label must be exact, value has the name of the texture to be looked up
+           Additonal note: #'s must be in order, beginning with 0
+		                   Final # must be 1-numTextures, so a 9 for 10 textures
+  <name>_pos =
+  <name>_size =  
+  <name>_frames =  
+  <name>_spacing =  
+  <name>_speed =  
+  
+  ^- both _pos and _size labels required for each texture
+                    <name> should be whatever value you listed above
+					
+  Example:
+   TODO put one here
+}
+spriteFile = "./Graphics/atlas_mobs.png"
+numAnimations = 4
+0_name = butterfly_purple
+1_name = butterfly_blue
+2_name = butterfly_yellow
+3_name = skeleton_small
+
+skeleton_small_pos = 0 44
+skeleton_small_size = 8 8
+skeleton_small_frames = 1
+skeleton_small_spacing = 0
+skeleton_small_speed = 1.0
+
+butterfly_purple_pos = 0 3
+butterfly_purple_size = 40 40
+butterfly_purple_frames = 2
+butterfly_purple_spacing = 1
+butterfly_purple_speed = 10.0
+
+butterfly_blue_pos = 82 3
+butterfly_blue_size = 40 40
+butterfly_blue_frames = 2
+butterfly_blue_spacing = 1
+butterfly_blue_speed = 10.0
+
+butterfly_yellow_pos = 164 3
+butterfly_yellow_size = 40 40
+butterfly_yellow_frames = 2
+butterfly_yellow_spacing = 1
+butterfly_yellow_speed = 10.0

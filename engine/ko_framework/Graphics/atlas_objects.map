@@ -1,0 +1,80 @@
+{
+This file is the atlas info used to map the texture coordinates for the atlas
+Data Format:
+  numTextures <- label must be exact, value must match number of textures
+  #_name = <- label must be exact, value has the name of the texture to be looked up
+           Additonal note: #'s must be in order, beginning with 0
+		                   Final # must be 1-numTextures, so a 9 for 10 textures
+  <name>_pos =
+  <name>_size =  <- both _pos and _size labels required for each texture
+                    <name> should be whatever value you listed above
+					
+  Example:
+   numTextures = 1
+   0_name = myTexture
+   myTexture_pos = 0 0
+   myTexture_size = 100 100
+   
+   ^the atlas above stores one texture at 0 0 of size 100 100
+}
+atlasFile = "./Graphics/atlas_objects.png"
+numTextures = 7
+
+
+# names
+
+0_name = ob_empty
+1_name = ob_sun
+2_name = ob_moon
+3_name = ob_sunmoon
+
+4_name = switch_neutral
+5_name = switch_left
+6_name = switch_right
+
+
+#definitions
+
+ob_empty_pos = 41 3
+ob_empty_size = 40 200
+
+ob_sun_pos = 82 3
+ob_sun_size = 40 200
+
+ob_moon_pos = 123 3
+ob_moon_size = 40 200
+
+ob_sunmoon_pos = 164 3
+ob_sunmoon_size = 40 200
+
+switch_neutral_pos = 41 208
+switch_neutral_size = 80 40
+switch_left_pos = 122 208
+switch_left_size = 80 40
+switch_right_pos = 205 208
+switch_right_size = 80 40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

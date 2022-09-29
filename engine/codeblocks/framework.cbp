@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="gtest1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/gtest1" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="C:/Stuff/adv/GL/bin" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../GL/glm" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/gtest1" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="C:/Stuff/adv/GL/bin" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="../ko_framework/areas" />
+			<Add directory="../ko_framework/Box2D" />
+			<Add directory="../ko_framework/gameobjects" />
+			<Add directory="GL" />
+			<Add directory="../ko_framework/glm" />
+			<Add directory="../ko_framework/Graphics" />
+			<Add directory="../ko_framework/ko" />
+			<Add directory="../ko_framework/SDL" />
+			<Add directory="../ko_framework/SDL/include" />
+			<Add directory="../ko_framework/ko/basetypes" />
+			<Add directory="../ko_framework/ko/commands" />
+			<Add directory="../ko_framework/ko/components" />
+			<Add directory="../ko_framework/ko/core" />
+			<Add directory="../ko_framework/ko/Shaders" />
+			<Add directory="../ko_framework/ko/systems" />
+			<Add directory="../ko_framework/ko/systems/graphics" />
+			<Add directory="../ko_framework/ko/systems/GUI" />
+			<Add directory="../ko_framework/ko/systems/interface" />
+			<Add directory="../ko_framework/ko/systems/levels" />
+			<Add directory="../ko_framework/ko/systems/misc" />
+			<Add directory="../ko_framework/ko/systems/objectmanager" />
+			<Add directory="../ko_framework/ko/systems/physics" />
+			<Add directory="../ko_framework/tweakbar" />
+			<Add directory="../ko_framework" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="libs\libSDLmain.a" />
+			<Add library="libs\libSDL.dll.a" />
+			<Add library="libs\libglew32.a" />
+			<Add library="freeglut" />
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="libs\libBox2D.a" />
+			<Add library="libs\glfw3dll.lib" />
+			<Add library="libs\AntTweakBar.lib" />
+			<Add library="sfml-audio-d" />
+			<Add library="sfml-system-d" />
+			<Add directory="GL" />
+			<Add directory="libs" />
+			<Add directory="libs/sfml" />
+		</Linker>
+		<Unit filename="../ko_framework/Editor.cpp" />
+		<Unit filename="../ko_framework/Editor.h" />
+		<Unit filename="../ko_framework/Editor_Helpers.cpp" />
+		<Unit filename="../ko_framework/Editor_Lights.cpp" />
+		<Unit filename="../ko_framework/Editor_Objects.cpp" />
+		<Unit filename="../ko_framework/Editor_Physics.cpp" />
+		<Unit filename="../ko_framework/Editor_Selection.cpp" />
+		<Unit filename="../ko_framework/Editor_TilePainting.cpp" />
+		<Unit filename="../ko_framework/Light.h" />
+		<Unit filename="../ko_framework/Physics_Optimize.cpp" />
+		<Unit filename="../ko_framework/Physics_Picking.cpp" />
+		<Unit filename="../ko_framework/PlayerStates.cpp" />
+		<Unit filename="../ko_framework/PlayerStates.h" />
+		<Unit filename="../ko_framework/RenderManager_Deprecated.cpp" />
+		<Unit filename="../ko_framework/RenderManager_Loading.cpp" />
+		<Unit filename="../ko_framework/RenderManager_Rendering.cpp" />
+		<Unit filename="../ko_framework/RenderManager_Setup.cpp" />
+		<Unit filename="../ko_framework/Sprite.cpp" />
+		<Unit filename="../ko_framework/Sprite.h" />
+		<Unit filename="../ko_framework/areas/Area_Beta.cpp" />
+		<Unit filename="../ko_framework/areas/Area_Beta.h" />
+		<Unit filename="../ko_framework/audio.cpp" />
+		<Unit filename="../ko_framework/audio.h" />
+		<Unit filename="../ko_framework/gameobjects/CustomObject.cpp" />
+		<Unit filename="../ko_framework/gameobjects/CustomObject.h" />
+		<Unit filename="../ko_framework/gameobjects/Rock.cpp" />
+		<Unit filename="../ko_framework/gameobjects/Rock.h" />
+		<Unit filename="../ko_framework/ko/basetypes/Command.cpp" />
+		<Unit filename="../ko_framework/ko/basetypes/Command.h" />
+		<Unit filename="../ko_framework/ko/commands/ChangeArea.cpp" />
+		<Unit filename="../ko_framework/ko/commands/ChangeArea.h" />
+		<Unit filename="../ko_framework/ko/commands/DoNothing.h" />
+		<Unit filename="../ko_framework/ko/commands/EnterMenu.cpp" />
+		<Unit filename="../ko_framework/ko/commands/EnterMenu.h" />
+		<Unit filename="../ko_framework/ko/commands/ExitMenu.cpp" />
+		<Unit filename="../ko_framework/ko/commands/ExitMenu.h" />
+		<Unit filename="../ko_framework/ko/commands/ImportAreaData.cpp" />
+		<Unit filename="../ko_framework/ko/commands/ImportAreaData.h" />
+		<Unit filename="../ko_framework/ko/commands/LoadArea.h" />
+		<Unit filename="../ko_framework/ko/commands/LoadGameObject.cpp" />
+		<Unit filename="../ko_framework/ko/commands/LoadGameObject.h" />
+		<Unit filename="../ko_framework/ko/commands/LoadPlayerControlledObject.h" />
+		<Unit filename="../ko_framework/ko/commands/SetLoadingScreen.cpp" />
+		<Unit filename="../ko_framework/ko/commands/SetLoadingScreen.h" />
+		<Unit filename="../ko_framework/ko/commands/UnloadArea.cpp" />
+		<Unit filename="../ko_framework/ko/commands/UnloadArea.h" />
+		<Unit filename="../ko_framework/ko/components/BaseObject.cpp" />
+		<Unit filename="../ko_framework/ko/components/BaseObject.h" />
+		<Unit filename="../ko_framework/ko/components/GraphicData.cpp" />
+		<Unit filename="../ko_framework/ko/components/GraphicData.h" />
+		<Unit filename="../ko_framework/ko/components/ObjectProperties.cpp" />
+		<Unit filename="../ko_framework/ko/components/ObjectProperties.h" />
+		<Unit filename="../ko_framework/ko/components/PhysicsObject.cpp" />
+		<Unit filename="../ko_framework/ko/components/PhysicsObject.h" />
+		<Unit filename="../ko_framework/ko/components/RenderObject.cpp" />
+		<Unit filename="../ko_framework/ko/components/RenderObject.h" />
+		<Unit filename="../ko_framework/ko/components/Transform.h" />
+		<Unit filename="../ko_framework/ko/core/GameInterface.cpp" />
+		<Unit filename="../ko_framework/ko/core/GameInterface.h" />
+		<Unit filename="../ko_framework/ko/core/globals.cpp" />
+		<Unit filename="../ko_framework/ko/core/globals.h" />
+		<Unit filename="../ko_framework/ko/systems/GUI/BasicHUD.cpp" />
+		<Unit filename="../ko_framework/ko/systems/GUI/BasicHUD.h" />
+		<Unit filename="../ko_framework/ko/systems/GUI/GUIBuilder.cpp" />
+		<Unit filename="../ko_framework/ko/systems/GUI/GUIBuilder.h" />
+		<Unit filename="../ko_framework/ko/systems/GUI/GUIButton.cpp" />
+		<Unit filename="../ko_framework/ko/systems/GUI/GUIButton.h" />
+		<Unit filename="../ko_framework/ko/systems/GUI/GUIField.cpp">
+			<Option compile="0" />
+		</Unit>
+		<Unit filename="../ko_framework/ko/systems/GUI/GUIField.h" />
+		<Unit filename="../ko_framework/ko/systems/GUI/GUIGraphic.cpp" />
+		<Unit filename="../ko_framework/ko/systems/GUI/GUIGraphic.h" />
+		<Unit filename="../ko_framework/ko/systems/GUI/GUIList.cpp" />
+		<Unit filename="../ko_framework/ko/systems/GUI/GUIList.h" />
+		<Unit filename="../ko_framework/ko/systems/GUI/GUIManager.cpp" />
+		<Unit filename="../ko_framework/ko/systems/GUI/GUIManager.h" />
+		<Unit filename="../ko_framework/ko/systems/GUI/GUINode.cpp" />
+		<Unit filename="../ko_framework/ko/systems/GUI/GUINode.h" />
+		<Unit filename="../ko_framework/ko/systems/GUI/GUIText.cpp" />
+		<Unit filename="../ko_framework/ko/systems/GUI/GUIText.h" />
+		<Unit filename="../ko_framework/ko/systems/GUI/GUIWindow.cpp" />
+		<Unit filename="../ko_framework/ko/systems/GUI/GUIWindow.h" />
+		<Unit filename="../ko_framework/ko/systems/GUI/HUD.cpp" />
+		<Unit filename="../ko_framework/ko/systems/GUI/HUD.h" />
+		<Unit filename="../ko_framework/ko/systems/GUI/HUDManager.cpp" />
+		<Unit filename="../ko_framework/ko/systems/GUI/HUDManager.h" />
+		<Unit filename="../ko_framework/ko/systems/GUI/HUDObject.cpp" />
+		<Unit filename="../ko_framework/ko/systems/GUI/HUDObject.h" />
+		<Unit filename="../ko_framework/ko/systems/GUI/MainMenu.cpp" />
+		<Unit filename="../ko_framework/ko/systems/GUI/MainMenu.h" />
+		<Unit filename="../ko_framework/ko/systems/GUI/MenuButton.cpp" />
+		<Unit filename="../ko_framework/ko/systems/GUI/MenuButton.h" />
+		<Unit filename="../ko_framework/ko/systems/graphics/Camera.cpp" />
+		<Unit filename="../ko_framework/ko/systems/graphics/Camera.h" />
+		<Unit filename="../ko_framework/ko/systems/graphics/RenderManager.cpp" />
+		<Unit filename="../ko_framework/ko/systems/graphics/RenderManager.h" />
+		<Unit filename="../ko_framework/ko/systems/interface/PlayerCommands.cpp" />
+		<Unit filename="../ko_framework/ko/systems/interface/PlayerCommands.h" />
+		<Unit filename="../ko_framework/ko/systems/interface/PlayerInterface.cpp" />
+		<Unit filename="../ko_framework/ko/systems/interface/PlayerInterface.h" />
+		<Unit filename="../ko_framework/ko/systems/levels/Area.cpp" />
+		<Unit filename="../ko_framework/ko/systems/levels/Area.h" />
+		<Unit filename="../ko_framework/ko/systems/levels/AreaLoader.cpp" />
+		<Unit filename="../ko_framework/ko/systems/levels/AreaLoader.h" />
+		<Unit filename="../ko_framework/ko/systems/levels/GridInfo.cpp" />
+		<Unit filename="../ko_framework/ko/systems/levels/GridInfo.h" />
+		<Unit filename="../ko_framework/ko/systems/misc/DebugDraw.cpp" />
+		<Unit filename="../ko_framework/ko/systems/misc/DebugDraw.h" />
+		<Unit filename="../ko_framework/ko/systems/misc/Parser.cpp" />
+		<Unit filename="../ko_framework/ko/systems/misc/Parser.h" />
+		<Unit filename="../ko_framework/ko/systems/objectmanager/ObjectManager.cpp" />
+		<Unit filename="../ko_framework/ko/systems/objectmanager/ObjectManager.h" />
+		<Unit filename="../ko_framework/ko/systems/physics/Physics.cpp" />
+		<Unit filename="../ko_framework/ko/systems/physics/Physics.h" />
+		<Unit filename="../ko_framework/main.cpp" />
+		<Unit filename="../ko_framework/mm_test/mm.h" />
+		<Unit filename="../ko_framework/states.cpp" />
+		<Unit filename="../ko_framework/states.h" />
+		<Unit filename="../ko_framework/tweakbar.cpp" />
+		<Unit filename="../ko_framework/tweakbar.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

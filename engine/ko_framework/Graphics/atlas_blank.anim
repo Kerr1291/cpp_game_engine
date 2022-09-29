@@ -1,0 +1,25 @@
+{
+This file is the atlas info used to map animation texture coordinates in the atlas
+Data Format:
+  numAnimations <- label must be exact, value must match number of textures
+  #_name = <- label must be exact, value has the name of the texture to be looked up
+           Additonal note: #'s must be in order, beginning with 0
+		                   Final # must be 1-numTextures, so a 9 for 10 textures
+  <name>_pos =
+  <name>_size =  
+  <name>_frames =  
+  <name>_spacing =  
+  <name>_speed =  
+  
+  ^- both _pos and _size labels required for each texture
+                    <name> should be whatever value you listed above
+					
+  Example:
+   TODO put one here
+}
+spriteFile = "./Graphics/atlas_blank.png"
+numAnimations = 1
+0_name = blank
+
+blank_pos = 0 0
+blank_size = 1 1

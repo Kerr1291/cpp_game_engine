@@ -1,0 +1,75 @@
+{
+This file is the atlas info used to map animation texture coordinates in the atlas
+Data Format:
+  numAnimations <- label must be exact, value must match number of textures
+  #_name = <- label must be exact, value has the name of the texture to be looked up
+           Additonal note: #'s must be in order, beginning with 0
+		                   Final # must be 1-numTextures, so a 9 for 10 textures
+  <name>_pos =
+  <name>_size =  
+  <name>_frames =  
+  <name>_spacing =  
+  <name>_speed =  
+  
+  ^- both _pos and _size labels required for each texture
+                    <name> should be whatever value you listed above
+					
+  Example:
+   TODO put one here
+   
+   
+//old
+normal_idle_pos = 0 225
+normal_idle_size = 32 23
+normal_idle_frames = 4
+normal_idle_spacing = 0
+normal_idle_speed = 6.0
+
+normal_walk_pos = 0 249
+normal_walk_size = 32 23
+normal_walk_frames = 4
+normal_walk_spacing = 0
+normal_walk_speed = 6.0
+
+normal_jump_pos = 0 273
+normal_jump_size = 32 23
+normal_jump_frames = 4
+normal_jump_spacing = 0
+normal_jump_speed = 5.0
+
+gun_idle_pos = 0 297
+gun_idle_size = 32 23
+gun_idle_frames = 4
+gun_idle_spacing = 0
+gun_idle_speed = 4.0
+}
+spriteFile = "./Graphics/birdguy.png"
+numAnimations = 4
+0_name = normal_idle
+1_name = normal_walk
+2_name = normal_jump
+3_name = gun_idle
+
+normal_idle_pos = 2 171
+normal_idle_size = 4 8
+normal_idle_frames = 4
+normal_idle_spacing = 1
+normal_idle_speed = 1.0
+
+normal_walk_pos = 2 180
+normal_walk_size = 4 8
+normal_walk_frames = 2
+normal_walk_spacing = 1
+normal_walk_speed = 8.0
+
+normal_jump_pos = 2 189
+normal_jump_size = 4 8
+normal_jump_frames = 1
+normal_jump_spacing = 0
+normal_jump_speed = 5.0
+
+gun_idle_pos = 2 198
+gun_idle_size = 4 8
+gun_idle_frames = 1
+gun_idle_spacing = 0
+gun_idle_speed = 4.0

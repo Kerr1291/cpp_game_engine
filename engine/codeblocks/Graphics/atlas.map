@@ -1,0 +1,194 @@
+{
+This file is the atlas info used to map the texture coordinates for the atlas
+Data Format:
+  numTextures <- label must be exact, value must match number of textures
+  #_name = <- label must be exact, value has the name of the texture to be looked up
+           Additonal note: #'s must be in order, beginning with 0
+		                   Final # must be 1-numTextures, so a 9 for 10 textures
+  <name>_pos =
+  <name>_size =  <- both _pos and _size labels required for each texture
+                    <name> should be whatever value you listed above
+					
+  Example:
+   numTextures = 1
+   0_name = myTexture
+   myTexture_pos = 0 0
+   myTexture_size = 100 100
+   
+   ^the atlas above stores one texture at 0 0 of size 100 100
+}
+atlasFile = "./Graphics/atlas.png"
+numTextures = 34
+
+
+# names
+
+0_name = ground_top_1
+1_name = ground_top_2
+2_name = ground_top_3
+3_name = ground_top_4
+4_name = ground_edge_l
+5_name = ground_edge_r
+
+6_name = ground_fill_1
+7_name = ground_fill_2
+8_name = ground_fill_3
+9_name = ground_fill_4
+
+10_name = ground_fill_edge_l
+11_name = ground_fill_edge_r
+
+12_name = ground_bottom_1
+13_name = ground_bottom_2
+14_name = ground_bottom_edge_l
+15_name = ground_bottom_edge_r
+16_name = ground_edge_l
+17_name = ground_edge_r
+
+18_name = ground_slope_r
+19_name = ground_slope_l
+20_name = ground_half_slope_r
+21_name = ground_half_slope_l
+22_name = ground_slope_joint_r
+23_name = ground_slope_joint_l
+
+24_name = sign
+25_name = mushroom
+
+26_name = bush_1
+27_name = bush_2
+
+28_name = tree_trunk
+29_name = tree_cross
+30_name = tree_limb
+31_name = tree_base
+32_name = tree_top
+
+33_name = background_1
+
+#definitions
+
+#row 1
+background_1_pos = 0 3
+background_1_size = 40 40
+
+ground_top_1_pos = 41 3
+ground_top_1_size = 40 40
+ground_top_2_pos = 82 3
+ground_top_2_size = 40 40
+ground_top_3_pos = 123 3
+ground_top_3_size = 40 40
+ground_top_4_pos = 164 3
+ground_top_4_size = 40 40
+
+ground_edge_l_pos = 205 3
+ground_edge_l_size = 40 40
+ground_edge_r_pos = 246 3
+ground_edge_r_size = 40 40
+
+sign_pos = 287 3
+sign_size = 40 40
+
+bush_1_pos = 328 3
+bush_1_size = 40 40
+
+tree_trunk_pos = 369 3
+tree_trunk_size = 40 40
+tree_cross_pos = 410 3
+tree_cross_size = 40 40
+tree_limb_pos = 451 3
+tree_limb_size = 40 40
+
+
+
+#row 2
+
+ground_fill_1_pos = 41 44
+ground_fill_1_size = 40 40
+ground_fill_2_pos = 82 44
+ground_fill_2_size = 40 40
+ground_fill_3_pos = 123 44
+ground_fill_3_size = 40 40
+ground_fill_4_pos = 164 44
+ground_fill_4_size = 40 40
+
+ground_fill_edge_l_pos = 205 44
+ground_fill_edge_l_size = 40 40
+ground_fill_edge_r_pos = 246 44
+ground_fill_edge_r_size = 40 40
+
+mushroom_pos = 287 44
+mushroom_size = 40 40
+
+bush_2_pos = 328 44
+bush_2_size = 40 40
+
+tree_base_pos = 369 44
+tree_base_size = 40 40
+tree_top_pos = 410 44
+tree_top_size = 40 40
+
+#row 3
+
+
+ground_bottom_1_pos = 41 85
+ground_bottom_1_size = 40 40
+ground_bottom_2_pos = 82 85
+ground_bottom_2_size = 40 40
+ground_bottom_edge_l_pos = 123 85
+ground_bottom_edge_l_size = 40 40
+ground_bottom_edge_r_pos = 164 85
+ground_bottom_edge_r_size = 40 40
+
+ground_edge_l_pos = 205 85
+ground_edge_l_size = 40 40
+ground_edge_r_pos = 246 85
+ground_edge_r_size = 40 40
+
+
+#row 4
+
+
+
+
+ground_slope_r_pos = 41 126
+ground_slope_r_size = 40 40
+ground_slope_l_pos = 82 126
+ground_slope_l_size = 40 40
+ground_half_slope_r_pos = 123 126
+ground_half_slope_r_size = 40 40
+ground_half_slope_l_pos = 164 126
+ground_half_slope_l_size = 40 40
+
+ground_slope_joint_r_pos = 205 126
+ground_slope_joint_r_size = 40 40
+ground_slope_joint_l_pos = 246 126
+ground_slope_joint_l_size = 40 40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
