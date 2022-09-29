@@ -7,6 +7,24 @@ The following 'TODO' list is displayed in order for posterity and to give an ove
 
 ======================================================
 
+
+OLD PROGRESS SCREENSHOTS:
+
+![Showcasing the state of the content creation workflow](progress_screenshots/making_content.gif)
+![Example scene created with the engine](progress_screenshots/update2.png)
+![Example scene created with the engine](progress_screenshots/update_wed.png)
+![Showcasing the addition of lights and 2nd sprite lighting to the engine](progress_screenshots/light.gif)
+![Showcasing the addition of lights and 2nd sprite lighting to the engine](progress_screenshots/light_png.png)
+![Simple showcase of editor view](progress_screenshots/edit_scene.png)
+![Example of altering an object](progress_screenshots/edit_stuff.gif)
+![Showcasing custom glow/bloom mapping for sprites](progress_screenshots/glowy.gif)
+![Showcasing debug render texture views](progress_screenshots/glowy.png)
+![Example of character moving around/animating](progress_screenshots/game.gif)
+![Early engine example showing that the engine has no world size limits and can render everything](progress_screenshots/game1.gif)
+
+
+======================================================
+
 = Things to get done =
 
 D = Done
