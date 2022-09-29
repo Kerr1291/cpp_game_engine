@@ -3,7 +3,7 @@ UPLOAD NOTE:::: 9-29-2022
 
 THIS PROJECT IS NO LONGER IN DEVELOPMENT AND HASN'T BEEN SINCE 2014
 
-The following 'TODO' list is displayed in order for posterity and to give an overview of where the project was at...
+The following 'TODO' list is displayed for posterity and to give an overview of where the project was at...
 
 Very old dev blog for the engine: https://codeprose.tumblr.com/
 
